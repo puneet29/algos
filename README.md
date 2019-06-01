@@ -7,6 +7,7 @@ Implementation of algorithms and data structures from various programming portal
 Name | Status | Tags | Languages
 ------------ | ------------- | ------------- | -------------
 [Sort Game](SortGame.cpp) | :heavy_check_mark: | `#sorting` `#vectors` `#pairs` | C++
+[ARRAYSUB](ARRAYSUB.cpp) | :heavy_check_mark: | `#datastructures` `#sliding window` `#deque` | C++
 
 Labels:
 
