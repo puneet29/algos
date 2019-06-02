@@ -1,4 +1,4 @@
-// Problem url: 
+// Problem url: https://en.wikipedia.org/wiki/Birthday_problem
 
 #include <iostream>
 
@@ -11,8 +11,8 @@ int main()
 
     // Considering the probability for no person being in the room
     int num = 365;
-    int denom = 365;
-    int people = 0;
+    float denom = 365;
+    float people = 0;
 
     while (p > 0.5)
     {
@@ -21,7 +21,7 @@ int main()
         people++;
     }
 
-    cout << "Probability of two person having same birthday is " << p << endl;
+    cout << "Minimum number of people required to get " << (1-p)*100 <<" probability is " << people << endl;
 
     return 0;
 }
