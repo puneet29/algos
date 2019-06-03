@@ -22,7 +22,7 @@ void multiply(int *fact, int &n, int no)
 void bigFactorial(int num)
 {
     // Considering that the factorial doesn't exceed more than 1000 digits
-    int *fact = new int[1000]{0};
+    int *fact = new int[1000];
 
     // Factorial of 0 is 1, Base case
     fact[0] = 1;
