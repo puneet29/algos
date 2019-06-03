@@ -28,11 +28,13 @@ Name | Status | Tags | Languages
 [SAMER08F](SAMER08F.cpp) | :heavy_check_mark: | *no tags* | [Python](SAMER08F.py), [C++](SAMER08F.cpp)
 [TEST](TEST.py) | :heavy_check_mark: | `#basic` `#tutorial` `#ad-hoc-1` | Python
 [TOANDFRO](TOANDFRO.py) | :heavy_check_mark: | `#ad-hoc-1` | Python
+[German Lotto](GermanLotto.cpp) | :dove: | `#ad-hox` `#mathematics` `#brute-force` `#complete-search` | C++
 
 Labels:
 
 * :heavy_check_mark: : Done
 * :dove: : Incomplete
+* :rocket: : Needs optimization
 
 ## Data Structures
 
