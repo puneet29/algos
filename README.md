@@ -57,7 +57,7 @@ Implementation : [trie](DataStructures/trie.cpp)
 
 #### Formula
 
-![Formula for catalan series](https://latex.codecogs.com/gif.latex?C_{0}%20=%201%20\,%20and%20\,%20C_{n+1}%20=%20\sum_{i=0}^{n}C_{i}C_{n-i}%20\,%20for%20\,%20n\geq%200)
+![Formula for catalan series](https://latex.codecogs.com/gif.latex?C_{0}%20=%201%20\%20and%20\%20C_{n+1}%20=%20\sum_{i=0}^{n}C_{i}C_{n-i}%20\%20for%20\%20n\geq%200)
 
 1. Number of possible binary search trees with n keys.
 2. Number of expressions containing n pairs of parantheses which are correctly matched. For n = 3, possible expressions are ((())), ()()(), (())(), ()(()), (()())
