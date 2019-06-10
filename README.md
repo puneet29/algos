@@ -19,6 +19,7 @@ Name | Status | Tags | Languages
 [CANDY](CANDY.py) | :heavy_check_mark: | `#ad-hoc-1` | Python
 [Catalan Series](catalan.py) | :heavy_check_mark: | `#series` `#sequence` | C++
 [COINS](COINS.py) | :heavy_check_mark: | `#dynamic-programming` | Python
+[DoorStatus](DoorStatus.py) | :heavy_check_mark: | `#TCS` `#mathematics` | Python
 [DOUGHNUT](DOUGHNUT.py) | :heavy_check_mark: | *no tags* | Python
 [FASHION](FASHION.py) | :heavy_check_mark: | `#ad-hoc-1` | Python
 [FCTRL](FCTRL.py) | :heavy_check_mark: | `#math` | Python
