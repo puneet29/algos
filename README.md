@@ -33,6 +33,7 @@ Name | Status | Tags | Languages
 [Linked List Insertion](LinkedListInsertion.py) | :heavy_check_mark: | `#insertion` `#linked-list` | C++
 [Maximum Tip Calculator](MaximumTipCalculator.py) | :heavy_check_mark: | `#dynamic-programming` `#arrays` | Python
 [Maximum Level Sum](MaxLevelSum.py) | :heavy_check_mark: | `#tree` `#queue` | Python
+[Minimum Difference Pair](MinDiffPair.py) | :heavy_check_mark: | *no tags* | Python
 [NSTEPS](NSTEPS.py) | :heavy_check_mark: | `#ad-hoc-1` | Python
 [Number of Opened Doors](NumberOfOpenedDoors.py) | :heavy_check_mark: | `#mathematics` | Python
 [ONP](ONP.py) | :heavy_check_mark: | `#stack` | Python
