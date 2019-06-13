@@ -39,6 +39,7 @@ Name | Status | Tags | Languages
 [Number of Opened Doors](NumberOfOpenedDoors.py) | :heavy_check_mark: | `#mathematics` | Python
 [ONP](ONP.py) | :heavy_check_mark: | `#stack` | Python
 [PRIME1](PRIME1.py) | :rocket: | `#number-theory` | Python
+[Remove Character](RemoveChar.py) | :heavy_check_mark: | `#strings` | Python
 [SAMER08F](SAMER08F.cpp) | :heavy_check_mark: | *no tags* | [Python](SAMER08F.py), [C++](SAMER08F.cpp)
 [SEQ](SEQ.cpp) | :heavy_check_mark: | `#transformation-matrix` `#recursive` `#series` | C++
 [Sort Game](SortGame.cpp) | :heavy_check_mark: | `#sorting` `#vectors` `#pairs` | C++
