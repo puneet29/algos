@@ -23,6 +23,7 @@ Name | Status | Tags | Languages
 [Delete node without head pointer](DeleteWithoutHead.py) | :heavy_check_mark: | `#linked-list` | Python
 [DoorStatus](DoorStatus.py) | :heavy_check_mark: | `#TCS` `#mathematics` | Python
 [DOUGHNUT](DOUGHNUT.py) | :heavy_check_mark: | *no tags* | Python
+[Expression Tree](ExpressionTree.py) | :heavy_check_mark: | `#tree` `#recursion` | Python
 [FASHION](FASHION.py) | :heavy_check_mark: | `#ad-hoc-1` | Python
 [FCTRL](FCTRL.py) | :heavy_check_mark: | `#math` | Python
 [FCTRL2](FCTRL2.py) | :heavy_check_mark: | `#math` `#big-numbers` | Python
