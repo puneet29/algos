@@ -28,9 +28,10 @@ Name | Status | Tags | Languages
 [FCTRL](FCTRL.py) | :heavy_check_mark: | `#math` | Python
 [FCTRL2](FCTRL2.py) | :heavy_check_mark: | `#math` `#big-numbers` | Python
 [German Lotto](GermanLotto.cpp) | :dove: | `#ad-hoc` `#mathematics` `#brute-force` `#complete-search` | C++
-[Height of Binary Tree](HeightOfBinaryTree.py) | :heavy_check_mark: | `#tree` `recursion` | Python
+[Height of Binary Tree](HeightOfBinaryTree.py) | :heavy_check_mark: | `#tree` `#recursion` | Python
 [Linked List Insertion](LinkedListInsertion.py) | :heavy_check_mark: | `#insertion` `#linked-list` | C++
-[Maximum Tip Calculator](MaximumTipCalculator.py) | :heavy_check_mark: | `#dynamic-programming` `arrays` | Python
+[Maximum Tip Calculator](MaximumTipCalculator.py) | :heavy_check_mark: | `#dynamic-programming` `#arrays` | Python
+[Maximum Level Sum](MaxLevelSum.py) | :heavy_check_mark: | `#tree` `#queue` | Python
 [NSTEPS](NSTEPS.py) | :heavy_check_mark: | `#ad-hoc-1` | Python
 [Number of Opened Doors](NumberOfOpenedDoors.py) | :heavy_check_mark: | `#mathematics` | Python
 [ONP](ONP.py) | :heavy_check_mark: | `#stack` | Python
