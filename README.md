@@ -41,6 +41,7 @@ Name | Status | Tags | Languages
 [Sort Game](SortGame.cpp) | :heavy_check_mark: | `#sorting` `#vectors` `#pairs` | C++
 [TEST](TEST.py) | :heavy_check_mark: | `#basic` `#tutorial` `#ad-hoc-1` | Python
 [TOANDFRO](TOANDFRO.py) | :heavy_check_mark: | `#ad-hoc-1` | Python
+[Twice Counter](TwiceCounter.py) | :heavy_check_mark: | `#strings` `#map` | Python
 
 Labels:
 
