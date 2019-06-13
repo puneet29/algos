@@ -20,6 +20,7 @@ Name | Status | Tags | Languages
 [CANDY](CANDY.py) | :heavy_check_mark: | `#ad-hoc-1` | Python
 [Catalan Series](catalan.py) | :heavy_check_mark: | `#series` `#sequence` | C++
 [COINS](COINS.py) | :heavy_check_mark: | `#dynamic-programming` | Python
+[Count Subsequence of type a^i b^j c^k](CountSubSeq.py) | :heavy_check_mark: | `#dynamic-programming` `#strings` | Python
 [Delete node without head pointer](DeleteWithoutHead.py) | :heavy_check_mark: | `#linked-list` | Python
 [DoorStatus](DoorStatus.py) | :heavy_check_mark: | `#TCS` `#mathematics` | Python
 [DOUGHNUT](DOUGHNUT.py) | :heavy_check_mark: | *no tags* | Python
