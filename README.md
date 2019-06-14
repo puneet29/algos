@@ -50,6 +50,7 @@ Name | Status | Tags | Languages
 [Sort Linked List](SortLinkList.cpp) | :dove: | `#sorting` `#linked-list` `#merge-sort` | [Python](SortLinkList.py), [C++](SortLinkList.cpp)
 [TEST](TEST.py) | :heavy_check_mark: | `#basic` `#tutorial` `#ad-hoc-1` | Python
 [TOANDFRO](TOANDFRO.py) | :heavy_check_mark: | `#ad-hoc-1` | Python
+[Tree from preorder traversal](TreeFromPreorder.cpp) | :heavy_check_mark: | `#strings` `#map` | [Python](TreeFromPreorder.py), [C++](TreeFromPreorder.cpp)
 [Twice Counter](TwiceCounter.py) | :heavy_check_mark: | `#strings` `#map` | Python
 
 Labels:
