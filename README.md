@@ -34,6 +34,7 @@ Name | Status | Tags | Languages
 [Height of Binary Tree](HeightOfBinaryTree.py) | :heavy_check_mark: | `#tree` `#recursion` | Python
 [How many X's](HowManyXs.py) | :heavy_check_mark: | `#modular-arithmetic` `#numbers` | Python
 [Inorder Traversal](InorderTraversal.py) | :heavy_check_mark: | `#tree` | Python
+[Kth Smallest Element](KSmallestEle.py) | :rocket: | `#arrays` `#searching` | Python
 [Linked List Insertion](LinkedListInsertion.py) | :heavy_check_mark: | `#insertion` `#linked-list` | C++
 [Maximum Tip Calculator](MaximumTipCalculator.py) | :heavy_check_mark: | `#dynamic-programming` `#arrays` | Python
 [Maximum Level Sum](MaxLevelSum.py) | :heavy_check_mark: | `#tree` `#queue` | Python
