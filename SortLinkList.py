@@ -71,14 +71,18 @@ def sortedMerge(a, b):
 def mergeSort(headRef):
     head = headRef
 
+    # return none if head is none else head when only one node
     if((not head) or (not head.next)):
         return head
 
+    # split the list in two
     firstHalf, secondHalf = frontBackSplit(head)
 
+    # sort the two halves
     firstHalf = mergeSort(firstHalf)
     secondHalf = mergeSort(secondHalf)
 
+    # sort and merge the halves
     head = sortedMerge(firstHalf, secondHalf)
     return(head)
 
