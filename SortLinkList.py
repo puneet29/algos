@@ -72,12 +72,12 @@ def mergeSort(headRef):
     head = headRef
 
     if((not head) or (not head.next)):
-        return
+        return head
 
     firstHalf, secondHalf = frontBackSplit(head)
 
-    mergeSort(firstHalf)
-    mergeSort(secondHalf)
+    firstHalf = mergeSort(firstHalf)
+    secondHalf = mergeSort(secondHalf)
 
     head = sortedMerge(firstHalf, secondHalf)
     return(head)
