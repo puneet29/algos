@@ -46,11 +46,12 @@ Name | Status | Tags | Languages
 [Remove Character](RemoveChar.py) | :heavy_check_mark: | `#strings` | Python
 [SAMER08F](SAMER08F.cpp) | :heavy_check_mark: | *no tags* | [Python](SAMER08F.py), [C++](SAMER08F.cpp)
 [SEQ](SEQ.cpp) | :heavy_check_mark: | `#transformation-matrix` `#recursive` `#series` | C++
+[Sorted Matrix](SortedMatrix.cpp) | :heavy_check_mark: | `#matrix` | Python
 [Sort Game](SortGame.cpp) | :heavy_check_mark: | `#sorting` `#vectors` `#pairs` | C++
 [Sort Linked List](SortLinkList.cpp) | :dove: | `#sorting` `#linked-list` `#merge-sort` | [Python](SortLinkList.py), [C++](SortLinkList.cpp)
 [TEST](TEST.py) | :heavy_check_mark: | `#basic` `#tutorial` `#ad-hoc-1` | Python
 [TOANDFRO](TOANDFRO.py) | :heavy_check_mark: | `#ad-hoc-1` | Python
-[Tree from preorder traversal](TreeFromPreorder.cpp) | :heavy_check_mark: | `#strings` `#map` | [Python](TreeFromPreorder.py), [C++](TreeFromPreorder.cpp)
+[Tree from preorder traversal](TreeFromPreorder.cpp) | :heavy_check_mark: | `#tree` | [Python](TreeFromPreorder.py), [C++](TreeFromPreorder.cpp)
 [Twice Counter](TwiceCounter.py) | :heavy_check_mark: | `#strings` `#map` | Python
 
 Labels:
