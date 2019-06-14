@@ -43,6 +43,7 @@ Name | Status | Tags | Languages
 [Number of Opened Doors](NumberOfOpenedDoors.py) | :heavy_check_mark: | `#mathematics` | Python
 [Odd Even Level Difference](OddEvenLevDiff.py) | :heavy_check_mark: | `#tree` | Python
 [ONP](ONP.py) | :heavy_check_mark: | `#stack` | Python
+[Palindromic Array](PalindromicArray.py) | :heavy_check_mark: | `#mathematical` | Python
 [Preorder Traversal](PreorderTraversal.py) | :heavy_check_mark: | `#tree` | Python
 [PRIME1](PRIME1.py) | :rocket: | `#number-theory` | Python
 [Remove Character](RemoveChar.py) | :heavy_check_mark: | `#strings` | Python
