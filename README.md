@@ -40,6 +40,7 @@ Name | Status | Tags | Languages
 [NSTEPS](NSTEPS.py) | :heavy_check_mark: | `#ad-hoc-1` | Python
 [Number of Opened Doors](NumberOfOpenedDoors.py) | :heavy_check_mark: | `#mathematics` | Python
 [ONP](ONP.py) | :heavy_check_mark: | `#stack` | Python
+[Preorder Traversal](PreorderTraversal.py) | :heavy_check_mark: | `#tree` | Python
 [PRIME1](PRIME1.py) | :rocket: | `#number-theory` | Python
 [Remove Character](RemoveChar.py) | :heavy_check_mark: | `#strings` | Python
 [SAMER08F](SAMER08F.cpp) | :heavy_check_mark: | *no tags* | [Python](SAMER08F.py), [C++](SAMER08F.cpp)
