@@ -1,3 +1,5 @@
+# Problem Description: https://www.spoj.com/problems/COINS/
+
 def maxCoins(n, memo={}):
     if(n <= 4):
         memo[n] = n

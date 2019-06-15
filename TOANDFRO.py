@@ -1,3 +1,5 @@
+# Problem Description: https://www.spoj.com/problems/TOANDFRO/
+
 n = int(input())
 while(n != 0):
     encrypt = input()

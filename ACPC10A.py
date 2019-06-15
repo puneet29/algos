@@ -1,3 +1,5 @@
+# Problem description: https://www.spoj.com/problems/ACPC10A/
+
 a, b, c = map(int, input().split())
 while(a != 0 or b != 0 or c != 0):
     if(b-a == c-b):

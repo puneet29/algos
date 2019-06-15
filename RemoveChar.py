@@ -1,3 +1,5 @@
+# Problem Description: https://practice.geeksforgeeks.org/problems/remove-character/0
+
 t = int(input())
 
 for _ in range(t):

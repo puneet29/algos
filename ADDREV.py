@@ -1,3 +1,5 @@
+# Problem description: https://www.spoj.com/problems/ADDREV/
+
 def findRev(num):
     temp = num
     rev = 0

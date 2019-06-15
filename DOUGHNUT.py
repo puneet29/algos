@@ -1,3 +1,5 @@
+# Problem Description: https://www.spoj.com/problems/DOUGHNUT/
+
 T = int(input())
 for _ in range(T):
     c, k, w = map(int, input().split())

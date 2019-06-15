@@ -1,3 +1,5 @@
+# Problem Description: https://www.spoj.com/problems/BYTESM2/
+
 def findMax(memo, i, j, w):
     if(j == 0):
         return(max(memo[i+1][j], memo[i+1][j+1]))

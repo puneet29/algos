@@ -1,3 +1,5 @@
+# Problem Description: https://www.spoj.com/problems/PRIME1/
+
 T = int(input())
 for _ in range(T):
     l, u = map(int, input().split())

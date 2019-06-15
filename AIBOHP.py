@@ -1,3 +1,5 @@
+# Problem description: https://www.spoj.com/problems/AIBOHP/
+
 def palindrome(A, size):
     MAT = [[0 for j in range(size)] for i in range(size)]
     i = 0

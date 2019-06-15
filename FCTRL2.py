@@ -1,3 +1,5 @@
+# Problem Description: https://www.spoj.com/problems/FCTRL2/
+
 t = int(input())
 for i in range(t):
     n = int(input())

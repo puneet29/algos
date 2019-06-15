@@ -1,3 +1,5 @@
+# Problem description: https://www.spoj.com/problems/AE00/
+
 import math
 
 N = int(input())

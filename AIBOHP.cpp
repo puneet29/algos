@@ -1,3 +1,5 @@
+// Problem description: https://www.spoj.com/problems/AIBOHP/
+
 #include <iostream>
 #include <string>
 using namespace std;

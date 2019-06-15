@@ -1,3 +1,5 @@
+// Problem Description: https://www.spoj.com/problems/BYTESM2/
+
 #include <iostream>
 using namespace std;
 

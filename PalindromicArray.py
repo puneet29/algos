@@ -1,3 +1,5 @@
+# Problem Description: https://practice.geeksforgeeks.org/problems/palindromic-array/0
+
 def isPalindrome(a):
     temp = []
 

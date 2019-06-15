@@ -1,3 +1,5 @@
+// Problem Description: https://www.spoj.com/problems/SEQ/
+
 #include <iostream>
 #include <vector>
 #define MOD 1000000000

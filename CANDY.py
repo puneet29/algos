@@ -1,3 +1,5 @@
+# Problem Description: https://www.spoj.com/problems/CANDY/
+
 N = int(input())
 while(N != -1):
     packs = []

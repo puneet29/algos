@@ -1,3 +1,5 @@
+# Problem Description: https://practice.geeksforgeeks.org/problems/how-many-xs/0
+
 t = int(input())
 
 for _ in range(t):

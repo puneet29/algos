@@ -1,3 +1,4 @@
+# Problem Description: https://www.spoj.com/problems/PRIME1/
 # This algorithm uses sparse dictionary of Python
 
 import collections

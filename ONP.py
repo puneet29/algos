@@ -1,3 +1,5 @@
+# Problem Description: https://www.spoj.com/problems/ONP/
+
 def priority(op):
     if(op == "^"):
         return 5

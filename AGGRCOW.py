@@ -1,3 +1,5 @@
+# Problem description: https://www.spoj.com/problems/AGGRCOW/
+
 def F(X, N, C, val):
     prev = 0
     consumedC = 1

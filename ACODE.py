@@ -1,3 +1,5 @@
+# Problem description: https://www.spoj.com/problems/ACODE/
+
 def decode(S, N):
     memo = [0 for i in range(N+1)]
     memo[N-1] = 1

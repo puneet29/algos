@@ -1,3 +1,5 @@
+# Problem Description: https://practice.geeksforgeeks.org/problems/check-if-the-door-is-open-or-closed/0
+
 def changeState(num):
     if(num == 1):
         return 0

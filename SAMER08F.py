@@ -1,3 +1,5 @@
+# Problem Description: https://www.spoj.com/problems/SAMER08F/
+
 N = int(input())
 while(N != 0):
     ans = 1

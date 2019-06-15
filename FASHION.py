@@ -1,3 +1,5 @@
+# Problem Description: https://www.spoj.com/problems/FASHION/
+
 t = int(input())
 for _ in range(t):
     n = int(input())

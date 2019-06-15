@@ -1,3 +1,5 @@
+# Problem Description: https://practice.geeksforgeeks.org/problems/twice-counter/0
+
 t = int(input())
 
 for _ in range(t):

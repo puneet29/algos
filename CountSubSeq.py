@@ -1,3 +1,5 @@
+# Problem Description: https://practice.geeksforgeeks.org/problems/count-subsequences-of-type-ai-bj-ck/0
+
 def countSubSeq(a):
     a_count = 0
     b_count = 0
