@@ -13,6 +13,7 @@ Name | Status | Tags | Languages
 [AGGRCOW](AGGRCOW.py) | :heavy_check_mark: | `#binary-search` | Python
 [AIBOHP](AIBOHP.cpp) | :heavy_check_mark: | `#dynamic-programming` | [Python](AIBOHP.py), [C++](AIBOHP.cpp)
 [ARRAYSUB](ARRAYSUB.cpp) | :heavy_check_mark: | `#datastructures` `#sliding window` `#deque` | C++
+[Bank Statement](BankStatement.cpp) | :heavy_check_mark: | `#codevita` `#mathematics` | Python
 [Big Integer Factorial](BigIntFactorial.cpp) | :heavy_check_mark: | `#mathematics` `#big-integers` | C++
 [Binary Search](BinarySearch.cpp) | :heavy_check_mark: | `#array` `#searching` `#divide-and-conquer` | Python
 [Birthday Paradox](BirthdayParadox.cpp) | :heavy_check_mark: | `#mathematics` | C++
