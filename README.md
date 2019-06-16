@@ -24,6 +24,7 @@ Name | Status | Tags | Languages
 [COINS](COINS.py) | :heavy_check_mark: | `#dynamic-programming` | Python
 [Count Subsequence of type a^i b^j c^k](CountSubSeq.py) | :heavy_check_mark: | `#dynamic-programming` `#strings` | Python
 [Count ways to reach the n'th stair](CountWaysToNthStair.py) | :heavy_check_mark: | `#dynamic-programming` | Python
+[Count ways to reach the n'th stair(Order doesn't matter)](CountWaysToNthStairNoOrder.py) | :heavy_check_mark: | `#dynamic-programming` `mathematical` | Python
 [Delete node without head pointer](DeleteWithoutHead.py) | :heavy_check_mark: | `#linked-list` | Python
 [DoorStatus](DoorStatus.py) | :heavy_check_mark: | `#TCS` `#mathematics` | Python
 [DOUGHNUT](DOUGHNUT.py) | :heavy_check_mark: | *no tags* | Python
