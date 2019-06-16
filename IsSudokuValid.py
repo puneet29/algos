@@ -1,3 +1,5 @@
+# Problem Description: https://practice.geeksforgeeks.org/problems/is-sudoku-valid/0
+
 def checkRow(a):
     vals = set()
     for i in range(9):
