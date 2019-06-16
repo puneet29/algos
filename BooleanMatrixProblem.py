@@ -2,14 +2,14 @@
 
 
 def getBoolMat(a, r, c):
-    row = []
-    col = []
+    row = set()
+    col = set()
 
     for i in range(r):
         for j in range(c):
             if(a[i][j] == 1):
-                row.append(i)
-                col.append(j)
+                row.add(i)
+                col.add(j)
 
     for i in range(r):
         if(i in row):
@@ -31,4 +31,3 @@ for _ in range(t):
 
     for i in range(r):
         print(" ".join([str(x) for x in a[i]]))
-    print()

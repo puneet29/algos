@@ -17,7 +17,7 @@ Name | Status | Tags | Languages
 [Big Integer Factorial](BigIntFactorial.cpp) | :heavy_check_mark: | `#mathematics` `#big-integers` | C++
 [Binary Search](BinarySearch.cpp) | :heavy_check_mark: | `#array` `#searching` `#divide-and-conquer` | Python
 [Birthday Paradox](BirthdayParadox.cpp) | :heavy_check_mark: | `#mathematics` | C++
-[Boolean Matrix Problem](BooleanMatrixProblem.cpp) | :rocket: | `#array` `#matrix` | Python
+[Boolean Matrix Problem](BooleanMatrixProblem.cpp) | :heavy_check_mark: | `#array` `#matrix` | Python
 [BYTESM2](BYTESM2.cpp) | :heavy_check_mark: | `#dynamic-programming` | [Python](BYTESM2.py), [C++](BYTESM2.cpp)
 [CANDY](CANDY.py) | :heavy_check_mark: | `#ad-hoc-1` | Python
 [Catalan Series](catalan.py) | :heavy_check_mark: | `#series` `#sequence` | C++
