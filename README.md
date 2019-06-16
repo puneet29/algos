@@ -23,6 +23,7 @@ Name | Status | Tags | Languages
 [Catalan Series](catalan.py) | :heavy_check_mark: | `#series` `#sequence` | C++
 [COINS](COINS.py) | :heavy_check_mark: | `#dynamic-programming` | Python
 [Count Subsequence of type a^i b^j c^k](CountSubSeq.py) | :heavy_check_mark: | `#dynamic-programming` `#strings` | Python
+[Count ways to reach the n'th stair](CountWaysToNthStair.py) | :heavy_check_mark: | `#dynamic-programming` | Python
 [Delete node without head pointer](DeleteWithoutHead.py) | :heavy_check_mark: | `#linked-list` | Python
 [DoorStatus](DoorStatus.py) | :heavy_check_mark: | `#TCS` `#mathematics` | Python
 [DOUGHNUT](DOUGHNUT.py) | :heavy_check_mark: | *no tags* | Python
