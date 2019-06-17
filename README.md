@@ -64,6 +64,7 @@ Name | Status | Tags | Languages
 [Tree from preorder traversal](TreeFromPreorder.cpp) | :heavy_check_mark: | `#tree` | [Python](TreeFromPreorder.py), [C++](TreeFromPreorder.cpp)
 [Twice Counter](TwiceCounter.py) | :heavy_check_mark: | `#strings` `#map` | Python
 [Word Break](WordBreak.py) | :heavy_check_mark: | `#dynamic-programming` | Python
+[Word Break - Part 2](WordBreak2.py) | :heavy_check_mark: | `#recursion` | Python
 
 Labels:
 
