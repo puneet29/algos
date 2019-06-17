@@ -63,6 +63,7 @@ Name | Status | Tags | Languages
 [TOANDFRO](TOANDFRO.py) | :heavy_check_mark: | `#ad-hoc-1` | Python
 [Tree from preorder traversal](TreeFromPreorder.cpp) | :heavy_check_mark: | `#tree` | [Python](TreeFromPreorder.py), [C++](TreeFromPreorder.cpp)
 [Twice Counter](TwiceCounter.py) | :heavy_check_mark: | `#strings` `#map` | Python
+[Word Break](WordBreak.py) | :heavy_check_mark: | `#dynamic-programming` | Python
 
 Labels:
 
