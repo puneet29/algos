@@ -56,6 +56,7 @@ Name | Status | Tags | Languages
 [Preorder Traversal](PreorderTraversal.py) | :heavy_check_mark: | `#tree` | Python
 [PRIME1](PRIME1.py) | :rocket: | `#number-theory` | Python
 [Remove Character](RemoveChar.py) | :heavy_check_mark: | `#strings` | Python
+[Reverse Bits](ReverseBits.py) | :heavy_check_mark: | `#bit-magic` `mathematical` | Python
 [Rotate 2D array by 90 deg without using extra space](Rotate2D90.py) | :heavy_check_mark: | `#arrays` | Python
 [SAMER08F](SAMER08F.cpp) | :heavy_check_mark: | *no tags* | [Python](SAMER08F.py), [C++](SAMER08F.cpp)
 [SEQ](SEQ.cpp) | :heavy_check_mark: | `#transformation-matrix` `#recursive` `#series` | C++
