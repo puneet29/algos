@@ -47,6 +47,7 @@ Name | Status | Tags | Languages
 [Maximum Level Sum](MaxLevelSum.py) | :heavy_check_mark: | `#tree` `#queue` | Python
 [Maximum Money](MaxMoney.py) | :heavy_check_mark: | `#mathematical` | Python
 [Minimum Difference Pair](MinDiffPair.py) | :heavy_check_mark: | *no tags* | Python
+[Missing number in array](MissingNumInArr.py) | :heavy_check_mark: | `#arrays` `bit-magic` `searching` | Python
 [N Meets in One Room](NMeetsInRoom.py) | :heavy_check_mark: | `#greedy` | Python
 [NSTEPS](NSTEPS.py) | :heavy_check_mark: | `#ad-hoc-1` | Python
 [Number of Opened Doors](NumberOfOpenedDoors.py) | :heavy_check_mark: | `#mathematics` | Python
