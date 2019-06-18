@@ -24,10 +24,11 @@ Name | Status | Tags | Languages
 [COINS](COINS.py) | :heavy_check_mark: | `#dynamic-programming` | Python
 [Count Subsequence of type a^i b^j c^k](CountSubSeq.py) | :heavy_check_mark: | `#dynamic-programming` `#strings` | Python
 [Count ways to reach the n'th stair](CountWaysToNthStair.py) | :heavy_check_mark: | `#dynamic-programming` | Python
-[Count ways to reach the n'th stair(Order doesn't matter)](CountWaysToNthStairNoOrder.py) | :heavy_check_mark: | `#dynamic-programming` `mathematical` | Python
+[Count ways to reach the n'th stair(Order doesn't matter)](CountWaysToNthStairNoOrder.py) | :heavy_check_mark: | `#dynamic-programming` `#mathematical` | Python
 [Delete node without head pointer](DeleteWithoutHead.py) | :heavy_check_mark: | `#linked-list` | Python
 [DoorStatus](DoorStatus.py) | :heavy_check_mark: | `#TCS` `#mathematics` | Python
 [DOUGHNUT](DOUGHNUT.py) | :heavy_check_mark: | *no tags* | Python
+[Equilibrium Point](EquilibriumPoint.py) | :heavy_check_mark: | `#prefix-sum` `#arrays` | Python
 [Expression Tree](ExpressionTree.py) | :heavy_check_mark: | `#tree` `#recursion` | Python
 [FASHION](FASHION.py) | :heavy_check_mark: | `#ad-hoc-1` | Python
 [FCTRL](FCTRL.py) | :heavy_check_mark: | `#math` | Python
@@ -39,8 +40,8 @@ Name | Status | Tags | Languages
 [How many X's](HowManyXs.py) | :heavy_check_mark: | `#modular-arithmetic` `#numbers` | Python
 [Inorder Traversal](InorderTraversal.py) | :heavy_check_mark: | `#tree` | Python
 [Is Sudoku Valid](IsSudokuValid.py) | :heavy_check_mark: | `#matrix` | Python
-[Job Sequencing](JobSeq.py) | :heavy_check_mark: | `#greedy` `disjoint-set` | Python
-[Kadane's Algorithm](KadaneAlgo.py) | :heavy_check_mark: | `#arrays` `dynamic-programming` | Python
+[Job Sequencing](JobSeq.py) | :heavy_check_mark: | `#greedy` `#disjoint-set` | Python
+[Kadane's Algorithm](KadaneAlgo.py) | :heavy_check_mark: | `#arrays` `#dynamic-programming` | Python
 [Kth Smallest Element](KSmallestEle.py) | :rocket: | `#arrays` `#searching` | Python
 [Leaders in an array](LeadersInArr.py) | :rocket: | `#arrays` `#searching` | Python
 [Linked List Insertion](LinkedListInsertion.py) | :heavy_check_mark: | `#insertion` `#linked-list` | C++
@@ -49,7 +50,7 @@ Name | Status | Tags | Languages
 [Maximum Level Sum](MaxLevelSum.py) | :heavy_check_mark: | `#tree` `#queue` | Python
 [Maximum Money](MaxMoney.py) | :heavy_check_mark: | `#mathematical` | Python
 [Minimum Difference Pair](MinDiffPair.py) | :heavy_check_mark: | *no tags* | Python
-[Missing number in array](MissingNumInArr.py) | :heavy_check_mark: | `#arrays` `bit-magic` `searching` | Python
+[Missing number in array](MissingNumInArr.py) | :heavy_check_mark: | `#arrays` `#bit-magic` `#searching` | Python
 [N Meets in One Room](NMeetsInRoom.py) | :heavy_check_mark: | `#greedy` | Python
 [NSTEPS](NSTEPS.py) | :heavy_check_mark: | `#ad-hoc-1` | Python
 [Number of Opened Doors](NumberOfOpenedDoors.py) | :heavy_check_mark: | `#mathematics` | Python
@@ -59,14 +60,14 @@ Name | Status | Tags | Languages
 [Preorder Traversal](PreorderTraversal.py) | :heavy_check_mark: | `#tree` | Python
 [PRIME1](PRIME1.py) | :rocket: | `#number-theory` | Python
 [Remove Character](RemoveChar.py) | :heavy_check_mark: | `#strings` | Python
-[Reverse Bits](ReverseBits.py) | :heavy_check_mark: | `#bit-magic` `mathematical` | Python
+[Reverse Bits](ReverseBits.py) | :heavy_check_mark: | `#bit-magic` `#mathematical` | Python
 [Rotate 2D array by 90 deg without using extra space](Rotate2D90.py) | :heavy_check_mark: | `#arrays` | Python
 [SAMER08F](SAMER08F.cpp) | :heavy_check_mark: | *no tags* | [Python](SAMER08F.py), [C++](SAMER08F.cpp)
 [SEQ](SEQ.cpp) | :heavy_check_mark: | `#transformation-matrix` `#recursive` `#series` | C++
 [Sorted Matrix](SortedMatrix.cpp) | :heavy_check_mark: | `#matrix` | Python
 [Sort Game](SortGame.cpp) | :heavy_check_mark: | `#sorting` `#vectors` `#pairs` | C++
 [Sort Linked List](SortLinkList.cpp) | :dove: | `#sorting` `#linked-list` `#merge-sort` | [Python](SortLinkList.py), [C++](SortLinkList.cpp)
-[Sub array with given sum](SubarrWithSum.py) | :heavy_check_mark: | `#arrays` `#prefix-sum` `#searching` `sliding-window` | Python
+[Sub array with given sum](SubarrWithSum.py) | :heavy_check_mark: | `#arrays` `#prefix-sum` `#searching` `#sliding-window` | Python
 [TEST](TEST.py) | :heavy_check_mark: | `#basic` `#tutorial` `#ad-hoc-1` | Python
 [TOANDFRO](TOANDFRO.py) | :heavy_check_mark: | `#ad-hoc-1` | Python
 [Tree from preorder traversal](TreeFromPreorder.cpp) | :heavy_check_mark: | `#tree` | [Python](TreeFromPreorder.py), [C++](TreeFromPreorder.cpp)
