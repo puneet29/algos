@@ -42,6 +42,7 @@ Name | Status | Tags | Languages
 [Job Sequencing](JobSeq.py) | :heavy_check_mark: | `#greedy` `disjoint-set` | Python
 [Kadane's Algorithm](KadaneAlgo.py) | :heavy_check_mark: | `#arrays` `dynamic-programming` | Python
 [Kth Smallest Element](KSmallestEle.py) | :rocket: | `#arrays` `#searching` | Python
+[Leaders in an array](LeadersInArr.py) | :rocket: | `#arrays` `#searching` | Python
 [Linked List Insertion](LinkedListInsertion.py) | :heavy_check_mark: | `#insertion` `#linked-list` | C++
 [Majority Element](MajorityElement.py) | :heavy_check_mark: | `#searching` `#arrays` | Python
 [Maximum Tip Calculator](MaximumTipCalculator.py) | :heavy_check_mark: | `#dynamic-programming` `#arrays` | Python
