@@ -39,7 +39,7 @@ Name | Status | Tags | Languages
 [How many X's](HowManyXs.py) | :heavy_check_mark: | `#modular-arithmetic` `#numbers` | Python
 [Inorder Traversal](InorderTraversal.py) | :heavy_check_mark: | `#tree` | Python
 [Is Sudoku Valid](IsSudokuValid.py) | :heavy_check_mark: | `#matrix` | Python
-[Job Sequencing](JobSeq.py) | :heavy_check_mark: | `#greedy` | Python
+[Job Sequencing](JobSeq.py) | :heavy_check_mark: | `#greedy` `disjoint-set` | Python
 [Kth Smallest Element](KSmallestEle.py) | :rocket: | `#arrays` `#searching` | Python
 [Linked List Insertion](LinkedListInsertion.py) | :heavy_check_mark: | `#insertion` `#linked-list` | C++
 [Maximum Tip Calculator](MaximumTipCalculator.py) | :heavy_check_mark: | `#dynamic-programming` `#arrays` | Python
@@ -61,6 +61,7 @@ Name | Status | Tags | Languages
 [Sorted Matrix](SortedMatrix.cpp) | :heavy_check_mark: | `#matrix` | Python
 [Sort Game](SortGame.cpp) | :heavy_check_mark: | `#sorting` `#vectors` `#pairs` | C++
 [Sort Linked List](SortLinkList.cpp) | :dove: | `#sorting` `#linked-list` `#merge-sort` | [Python](SortLinkList.py), [C++](SortLinkList.cpp)
+[Sub array with given sum](SubarrWithSum.py) | :heavy_check_mark: | `#arrays` `#prefix-sum` `#searching` `sliding-window` | Python
 [TEST](TEST.py) | :heavy_check_mark: | `#basic` `#tutorial` `#ad-hoc-1` | Python
 [TOANDFRO](TOANDFRO.py) | :heavy_check_mark: | `#ad-hoc-1` | Python
 [Tree from preorder traversal](TreeFromPreorder.cpp) | :heavy_check_mark: | `#tree` | [Python](TreeFromPreorder.py), [C++](TreeFromPreorder.cpp)
