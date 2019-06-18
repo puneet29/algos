@@ -40,6 +40,7 @@ Name | Status | Tags | Languages
 [Inorder Traversal](InorderTraversal.py) | :heavy_check_mark: | `#tree` | Python
 [Is Sudoku Valid](IsSudokuValid.py) | :heavy_check_mark: | `#matrix` | Python
 [Job Sequencing](JobSeq.py) | :heavy_check_mark: | `#greedy` `disjoint-set` | Python
+[Kadane's Algorithm](KadaneAlgo.py) | :heavy_check_mark: | `#arrays` `dynamic-programming` | Python
 [Kth Smallest Element](KSmallestEle.py) | :rocket: | `#arrays` `#searching` | Python
 [Linked List Insertion](LinkedListInsertion.py) | :heavy_check_mark: | `#insertion` `#linked-list` | C++
 [Maximum Tip Calculator](MaximumTipCalculator.py) | :heavy_check_mark: | `#dynamic-programming` `#arrays` | Python
