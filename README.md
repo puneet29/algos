@@ -6,74 +6,74 @@ Implementation of algorithms and data structures from various programming portal
 
 Name | Status | Tags | Languages
 ------------ | ------------- | ------------- | -------------
-[ACODE](ACODE.py) | :heavy_check_mark: | `#dynamic-programming` | Python
-[ACPC10A](ACPC10A.py) | :heavy_check_mark: | *no tags* | Python
-[ADDREV](ADDREV.py) | :heavy_check_mark: | `#simple-math` `#ad-hoc-1` | Python
-[AE00](AE00.py) | :heavy_check_mark: | `#ad-hoc-1` | Python
-[AGGRCOW](AGGRCOW.py) | :heavy_check_mark: | `#binary-search` | Python
-[AIBOHP](AIBOHP.cpp) | :heavy_check_mark: | `#dynamic-programming` | [Python](AIBOHP.py), [C++](AIBOHP.cpp)
-[ARRAYSUB](ARRAYSUB.cpp) | :heavy_check_mark: | `#datastructures` `#sliding window` `#deque` | C++
-[Bank Statement](BankStatement.cpp) | :heavy_check_mark: | `#codevita` `#mathematics` | Python
-[Big Integer Factorial](BigIntFactorial.cpp) | :heavy_check_mark: | `#mathematics` `#big-integers` | C++
-[Binary Search](BinarySearch.cpp) | :heavy_check_mark: | `#array` `#searching` `#divide-and-conquer` | Python
-[Birthday Paradox](BirthdayParadox.cpp) | :heavy_check_mark: | `#mathematics` | C++
-[Boolean Matrix Problem](BooleanMatrixProblem.cpp) | :heavy_check_mark: | `#array` `#matrix` | Python
-[BYTESM2](BYTESM2.cpp) | :heavy_check_mark: | `#dynamic-programming` | [Python](BYTESM2.py), [C++](BYTESM2.cpp)
-[CANDY](CANDY.py) | :heavy_check_mark: | `#ad-hoc-1` | Python
-[Catalan Series](catalan.py) | :heavy_check_mark: | `#series` `#sequence` | C++
-[COINS](COINS.py) | :heavy_check_mark: | `#dynamic-programming` | Python
-[Count Subsequence of type a^i b^j c^k](CountSubSeq.py) | :heavy_check_mark: | `#dynamic-programming` `#strings` | Python
-[Count ways to reach the n'th stair](CountWaysToNthStair.py) | :heavy_check_mark: | `#dynamic-programming` | Python
-[Count ways to reach the n'th stair(Order doesn't matter)](CountWaysToNthStairNoOrder.py) | :heavy_check_mark: | `#dynamic-programming` `#mathematical` | Python
-[Delete node without head pointer](DeleteWithoutHead.py) | :heavy_check_mark: | `#linked-list` | Python
-[DoorStatus](DoorStatus.py) | :heavy_check_mark: | `#TCS` `#mathematics` | Python
-[DOUGHNUT](DOUGHNUT.py) | :heavy_check_mark: | *no tags* | Python
-[Equilibrium Point](EquilibriumPoint.py) | :heavy_check_mark: | `#prefix-sum` `#arrays` | Python
-[Expression Tree](ExpressionTree.py) | :heavy_check_mark: | `#tree` `#recursion` | Python
-[FASHION](FASHION.py) | :heavy_check_mark: | `#ad-hoc-1` | Python
-[FCTRL](FCTRL.py) | :heavy_check_mark: | `#math` | Python
-[FCTRL2](FCTRL2.py) | :heavy_check_mark: | `#math` `#big-numbers` | Python
-[Find Middle element of linked list](FindMidLinkList.py) | :heavy_check_mark: | `#linked-list` | Python
-[Full Binary Tree](FullBinaryTree.cpp) | :heavy_check_mark: | `#tree` | [Python](FullBinaryTree.py), [C++](FullBinaryTree.cpp)
-[German Lotto](GermanLotto.cpp) | :dove: | `#ad-hoc` `#mathematics` `#brute-force` `#complete-search` | C++
-[Height of Binary Tree](HeightOfBinaryTree.py) | :heavy_check_mark: | `#tree` `#recursion` | Python
-[How many X's](HowManyXs.py) | :heavy_check_mark: | `#modular-arithmetic` `#numbers` | Python
-[Inorder Traversal](InorderTraversal.py) | :heavy_check_mark: | `#tree` | Python
-[Is Sudoku Valid](IsSudokuValid.py) | :heavy_check_mark: | `#matrix` | Python
-[Job Sequencing](JobSeq.py) | :heavy_check_mark: | `#greedy` `#disjoint-set` | Python
-[Kadane's Algorithm](KadaneAlgo.py) | :heavy_check_mark: | `#arrays` `#dynamic-programming` | Python
-[Kth Smallest Element](KSmallestEle.py) | :rocket: | `#arrays` `#searching` | Python
-[Leaders in an array](LeadersInArr.py) | :rocket: | `#arrays` `#searching` | Python
-[Linked List Insertion](LinkedListInsertion.py) | :heavy_check_mark: | `#insertion` `#linked-list` | C++
-[Majority Element](MajorityElement.py) | :heavy_check_mark: | `#searching` `#arrays` | Python
-[Maximum Tip Calculator](MaximumTipCalculator.py) | :heavy_check_mark: | `#dynamic-programming` `#arrays` | Python
-[Maximum Level Sum](MaxLevelSum.py) | :heavy_check_mark: | `#tree` `#queue` | Python
-[Maximum Money](MaxMoney.py) | :heavy_check_mark: | `#mathematical` | Python
-[Minimum Difference Pair](MinDiffPair.py) | :heavy_check_mark: | *no tags* | Python
-[Missing number in array](MissingNumInArr.py) | :heavy_check_mark: | `#arrays` `#bit-magic` `#searching` | Python
-[N Meets in One Room](NMeetsInRoom.py) | :heavy_check_mark: | `#greedy` | Python
-[NSTEPS](NSTEPS.py) | :heavy_check_mark: | `#ad-hoc-1` | Python
-[Number of Opened Doors](NumberOfOpenedDoors.py) | :heavy_check_mark: | `#mathematics` | Python
-[Odd Even Level Difference](OddEvenLevDiff.py) | :heavy_check_mark: | `#tree` | Python
-[ONP](ONP.py) | :heavy_check_mark: | `#stack` | Python
-[Palindromic Array](PalindromicArray.py) | :heavy_check_mark: | `#mathematical` | Python
-[Preorder Traversal](PreorderTraversal.py) | :heavy_check_mark: | `#tree` | Python
-[PRIME1](PRIME1.py) | :rocket: | `#number-theory` | Python
-[Remove Character](RemoveChar.py) | :heavy_check_mark: | `#strings` | Python
-[Reverse Bits](ReverseBits.py) | :heavy_check_mark: | `#bit-magic` `#mathematical` | Python
-[Rotate 2D array by 90 deg without using extra space](Rotate2D90.py) | :heavy_check_mark: | `#arrays` | Python
-[SAMER08F](SAMER08F.cpp) | :heavy_check_mark: | *no tags* | [Python](SAMER08F.py), [C++](SAMER08F.cpp)
-[SEQ](SEQ.cpp) | :heavy_check_mark: | `#transformation-matrix` `#recursive` `#series` | C++
-[Sorted Matrix](SortedMatrix.cpp) | :heavy_check_mark: | `#matrix` | Python
-[Sort Game](SortGame.cpp) | :heavy_check_mark: | `#sorting` `#vectors` `#pairs` | C++
-[Sort Linked List](SortLinkList.cpp) | :dove: | `#sorting` `#linked-list` `#merge-sort` | [Python](SortLinkList.py), [C++](SortLinkList.cpp)
-[Sub array with given sum](SubarrWithSum.py) | :heavy_check_mark: | `#arrays` `#prefix-sum` `#searching` `#sliding-window` | Python
-[TEST](TEST.py) | :heavy_check_mark: | `#basic` `#tutorial` `#ad-hoc-1` | Python
-[TOANDFRO](TOANDFRO.py) | :heavy_check_mark: | `#ad-hoc-1` | Python
-[Tree from preorder traversal](TreeFromPreorder.cpp) | :heavy_check_mark: | `#tree` | [Python](TreeFromPreorder.py), [C++](TreeFromPreorder.cpp)
-[Twice Counter](TwiceCounter.py) | :heavy_check_mark: | `#strings` `#map` | Python
-[Word Break](WordBreak.py) | :heavy_check_mark: | `#dynamic-programming` | Python
-[Word Break - Part 2](WordBreak2.py) | :heavy_check_mark: | `#recursion` | Python
+[ACODE](spoj/ACODE.py) | :heavy_check_mark: | `#dynamic-programming` | Python
+[ACPC10A](spoj/ACPC10A.py) | :heavy_check_mark: | *no tags* | Python
+[ADDREV](spoj/ADDREV.py) | :heavy_check_mark: | `#simple-math` `#ad-hoc-1` | Python
+[AE00](spoj/AE00.py) | :heavy_check_mark: | `#ad-hoc-1` | Python
+[AGGRCOW](spoj/AGGRCOW.py) | :heavy_check_mark: | `#binary-search` | Python
+[AIBOHP](spoj/AIBOHP.cpp) | :heavy_check_mark: | `#dynamic-programming` | [Python](spoj/AIBOHP.py), [C++](spoj/AIBOHP.cpp)
+[ARRAYSUB](spoj/ARRAYSUB.cpp) | :heavy_check_mark: | `#datastructures` `#sliding window` `#deque` | C++
+[Bank Statement](misc/BankStatement.cpp) | :heavy_check_mark: | `#codevita` `#mathematics` | Python
+[Big Integer Factorial](misc/BigIntFactorial.cpp) | :heavy_check_mark: | `#mathematics` `#big-integers` | C++
+[Binary Search](misc/BinarySearch.cpp) | :heavy_check_mark: | `#array` `#searching` `#divide-and-conquer` | Python
+[Birthday Paradox](misc/BirthdayParadox.cpp) | :heavy_check_mark: | `#mathematics` | C++
+[Boolean Matrix Problem](GeeksForGeeks/BooleanMatrixProblem.cpp) | :heavy_check_mark: | `#array` `#matrix` | Python
+[BYTESM2](spoj/BYTESM2.cpp) | :heavy_check_mark: | `#dynamic-programming` | [Python](spoj/BYTESM2.py), [C++](spoj/BYTESM2.cpp)
+[CANDY](spoj/CANDY.py) | :heavy_check_mark: | `#ad-hoc-1` | Python
+[Catalan Series](misc/catalan.py) | :heavy_check_mark: | `#series` `#sequence` | C++
+[COINS](spoj/COINS.py) | :heavy_check_mark: | `#dynamic-programming` | Python
+[Count Subsequence of type a^i b^j c^k](GeeksForGeeks/CountSubSeq.py) | :heavy_check_mark: | `#dynamic-programming` `#strings` | Python
+[Count ways to reach the n'th stair](GeeksForGeeks/CountWaysToNthStair.py) | :heavy_check_mark: | `#dynamic-programming` | Python
+[Count ways to reach the n'th stair(Order doesn't matter)](GeeksForGeeks/CountWaysToNthStairNoOrder.py) | :heavy_check_mark: | `#dynamic-programming` `#mathematical` | Python
+[Delete node without head pointer](GeeksForGeeks/DeleteWithoutHead.py) | :heavy_check_mark: | `#linked-list` | Python
+[DoorStatus](GeeksForGeeks/DoorStatus.py) | :heavy_check_mark: | `#TCS` `#mathematics` | Python
+[DOUGHNUT](spoj/DOUGHNUT.py) | :heavy_check_mark: | *no tags* | Python
+[Equilibrium Point](GeeksForGeek/EquilibriumPoint.py) | :heavy_check_mark: | `#prefix-sum` `#arrays` | Python
+[Expression Tree](GeeksForGeek/ExpressionTree.py) | :heavy_check_mark: | `#tree` `#recursion` | Python
+[FASHION](spoj/FASHION.py) | :heavy_check_mark: | `#ad-hoc-1` | Python
+[FCTRL](spoj/FCTRL.py) | :heavy_check_mark: | `#math` | Python
+[FCTRL2](spoj/FCTRL2.py) | :heavy_check_mark: | `#math` `#big-numbers` | Python
+[Find Middle element of linked list](GeeksForGeeks/FindMidLinkList.py) | :heavy_check_mark: | `#linked-list` | Python
+[Full Binary Tree](GeeksForGeeks/FullBinaryTree.cpp) | :heavy_check_mark: | `#tree` | [Python](GeeksForGeeks/FullBinaryTree.py), [C++](GeeksForGeeks/FullBinaryTree.cpp)
+[German Lotto](misc/GermanLotto.cpp) | :dove: | `#ad-hoc` `#mathematics` `#brute-force` `#complete-search` | C++
+[Height of Binary Tree](GeeksForGeeks/HeightOfBinaryTree.py) | :heavy_check_mark: | `#tree` `#recursion` | Python
+[How many X's](GeeksForGeeks/HowManyXs.py) | :heavy_check_mark: | `#modular-arithmetic` `#numbers` | Python
+[Inorder Traversal](GeeksForGeeks/InorderTraversal.py) | :heavy_check_mark: | `#tree` | Python
+[Is Sudoku Valid](GeeksForGeeks/IsSudokuValid.py) | :heavy_check_mark: | `#matrix` | Python
+[Job Sequencing](GeeksForGeeks/JobSeq.py) | :heavy_check_mark: | `#greedy` `#disjoint-set` | Python
+[Kadane's Algorithm](GeeksForGeeks/KadaneAlgo.py) | :heavy_check_mark: | `#arrays` `#dynamic-programming` | Python
+[Kth Smallest Element](GeeksForGeeks/KSmallestEle.py) | :rocket: | `#arrays` `#searching` | Python
+[Leaders in an array](GeeksForGeeks/LeadersInArr.py) | :rocket: | `#arrays` `#searching` | Python
+[Linked List Insertion](GeeksForGeeks/LinkedListInsertion.py) | :heavy_check_mark: | `#insertion` `#linked-list` | C++
+[Majority Element](GeeksForGeeks/MajorityElement.py) | :heavy_check_mark: | `#searching` `#arrays` | Python
+[Maximum Tip Calculator](GeeksForGeeks/MaximumTipCalculator.py) | :heavy_check_mark: | `#dynamic-programming` `#arrays` | Python
+[Maximum Level Sum](GeeksForGeeks/MaxLevelSum.py) | :heavy_check_mark: | `#tree` `#queue` | Python
+[Maximum Money](GeeksForGeeks/MaxMoney.py) | :heavy_check_mark: | `#mathematical` | Python
+[Minimum Difference Pair](GeeksForGeeks/MinDiffPair.py) | :heavy_check_mark: | *no tags* | Python
+[Missing number in array](GeeksForGeeks/MissingNumInArr.py) | :heavy_check_mark: | `#arrays` `#bit-magic` `#searching` | Python
+[N Meets in One Room](GeeksForGeeks/NMeetsInRoom.py) | :heavy_check_mark: | `#greedy` | Python
+[NSTEPS](spoj/NSTEPS.py) | :heavy_check_mark: | `#ad-hoc-1` | Python
+[Number of Opened Doors](GeeksForGeeks/NumberOfOpenedDoors.py) | :heavy_check_mark: | `#mathematics` | Python
+[Odd Even Level Difference](GeeksForGeeks/OddEvenLevDiff.py) | :heavy_check_mark: | `#tree` | Python
+[ONP](spoj/ONP.py) | :heavy_check_mark: | `#stack` | Python
+[Palindromic Array](GeeksForGeeks/PalindromicArray.py) | :heavy_check_mark: | `#mathematical` | Python
+[Preorder Traversal](GeeksForGeeks/PreorderTraversal.py) | :heavy_check_mark: | `#tree` | Python
+[PRIME1](spoj/PRIME1.py) | :rocket: | `#number-theory` | Python
+[Remove Character](GeeksForGeeks/RemoveChar.py) | :heavy_check_mark: | `#strings` | Python
+[Reverse Bits](GeeksForGeeks/ReverseBits.py) | :heavy_check_mark: | `#bit-magic` `#mathematical` | Python
+[Rotate 2D array by 90 deg without using extra space](GeeksForGeeks/Rotate2D90.py) | :heavy_check_mark: | `#arrays` | Python
+[SAMER08F](spoj/SAMER08F.cpp) | :heavy_check_mark: | *no tags* | [Python](spoj/SAMER08F.py), [C++](spoj/SAMER08F.cpp)
+[SEQ](spoj/SEQ.cpp) | :heavy_check_mark: | `#transformation-matrix` `#recursive` `#series` | C++
+[Sorted Matrix](GeeksForGeeks/SortedMatrix.cpp) | :heavy_check_mark: | `#matrix` | Python
+[Sort Game](misc/SortGame.cpp) | :heavy_check_mark: | `#sorting` `#vectors` `#pairs` | C++
+[Sort Linked List](GeeksForGeeks/SortLinkList.cpp) | :dove: | `#sorting` `#linked-list` `#merge-sort` | [Python](SortLinkList.py), [C++](SortLinkList.cpp)
+[Sub array with given sum](GeeksForGeeks/SubarrWithSum.py) | :heavy_check_mark: | `#arrays` `#prefix-sum` `#searching` `#sliding-window` | Python
+[TEST](spoj/TEST.py) | :heavy_check_mark: | `#basic` `#tutorial` `#ad-hoc-1` | Python
+[TOANDFRO](spoj/TOANDFRO.py) | :heavy_check_mark: | `#ad-hoc-1` | Python
+[Tree from preorder traversal](GeeksForGeeks/TreeFromPreorder.cpp) | :heavy_check_mark: | `#tree` | [Python](GeeksForGeeks/TreeFromPreorder.py), [C++](GeeksForGeeks/TreeFromPreorder.cpp)
+[Twice Counter](GeeksForGeeks/TwiceCounter.py) | :heavy_check_mark: | `#strings` `#map` | Python
+[Word Break](GeeksForGeeks/WordBreak.py) | :heavy_check_mark: | `#dynamic-programming` | Python
+[Word Break - Part 2](GeeksForGeeks/WordBreak2.py) | :heavy_check_mark: | `#recursion` | Python
 
 Labels:
 
