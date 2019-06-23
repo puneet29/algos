@@ -64,7 +64,8 @@ Name | Status | Tags | Languages
 [Rotate 2D array by 90 deg without using extra space](GeeksForGeeks/Rotate2D90.py) | :heavy_check_mark: | `#arrays` | Python
 [SAMER08F](spoj/SAMER08F.cpp) | :heavy_check_mark: | *no tags* | [Python](spoj/SAMER08F.py), [C++](spoj/SAMER08F.cpp)
 [SEQ](spoj/SEQ.cpp) | :heavy_check_mark: | `#transformation-matrix` `#recursive` `#series` | C++
-[Sorted Matrix](GeeksForGeeks/SortedMatrix.cpp) | :heavy_check_mark: | `#matrix` | Python
+[Sorted Array of 0, 1 and 2s](GeeksForGeeks/SortArrOf012.py) | :heavy_check_mark: | `#arrays` `#sorting` | Python
+[Sorted Matrix](GeeksForGeeks/SortedMatrix.py) | :heavy_check_mark: | `#matrix` | Python
 [Sort Game](misc/SortGame.cpp) | :heavy_check_mark: | `#sorting` `#vectors` `#pairs` | C++
 [Sort Linked List](GeeksForGeeks/SortLinkList.cpp) | :dove: | `#sorting` `#linked-list` `#merge-sort` | [Python](SortLinkList.py), [C++](SortLinkList.cpp)
 [Sub array with given sum](GeeksForGeeks/SubarrWithSum.py) | :heavy_check_mark: | `#arrays` `#prefix-sum` `#searching` `#sliding-window` | Python
