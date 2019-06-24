@@ -8,6 +8,7 @@ Name | Status | Tags | Languages
 ------------ | ------------- | ------------- | -------------
 [ACODE](spoj/ACODE.py) | :heavy_check_mark: | `#dynamic-programming` | Python
 [ACPC10A](spoj/ACPC10A.py) | :heavy_check_mark: | *no tags* | Python
+[Activity Selection](GeeksForGeeks/ActivitySelection.py) | :heavy_check_mark: | `#greedy` | Python
 [ADDREV](spoj/ADDREV.py) | :heavy_check_mark: | `#simple-math` `#ad-hoc-1` | Python
 [AE00](spoj/AE00.py) | :heavy_check_mark: | `#ad-hoc-1` | Python
 [AGGRCOW](spoj/AGGRCOW.py) | :heavy_check_mark: | `#binary-search` | Python
