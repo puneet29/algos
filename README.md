@@ -51,6 +51,7 @@ Name | Status | Tags | Languages
 [Maximum Tip Calculator](GeeksForGeeks/MaximumTipCalculator.py) | :heavy_check_mark: | `#dynamic-programming` `#arrays` | Python
 [Maximum Level Sum](GeeksForGeeks/MaxLevelSum.py) | :heavy_check_mark: | `#tree` `#queue` | Python
 [Maximum Money](GeeksForGeeks/MaxMoney.py) | :heavy_check_mark: | `#mathematical` | Python
+[Minimize The Sum Of Product](GeeksForGeeks/MinimizeTheSumOfProduct.py) | :heavy_check_mark: | `#greedy` `#arrays` `#sorting` | Python
 [Minimum Difference Pair](GeeksForGeeks/MinDiffPair.py) | :heavy_check_mark: | *no tags* | Python
 [Missing number in array](GeeksForGeeks/MissingNumInArr.py) | :heavy_check_mark: | `#arrays` `#bit-magic` `#searching` | Python
 [N Meets in One Room](GeeksForGeeks/NMeetsInRoom.py) | :heavy_check_mark: | `#greedy` | Python
