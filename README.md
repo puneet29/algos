@@ -48,6 +48,7 @@ Name | Status | Tags | Languages
 [Leaders in an array](GeeksForGeeks/LeadersInArr.py) | :rocket: | `#arrays` `#searching` | Python
 [Linked List Insertion](GeeksForGeeks/LinkedListInsertion.py) | :heavy_check_mark: | `#insertion` `#linked-list` | C++
 [Majority Element](GeeksForGeeks/MajorityElement.py) | :heavy_check_mark: | `#searching` `#arrays` | Python
+[Maximize Toys](GeeksForGeeks/MaximizeToys.py) | :heavy_check_mark: | `#greedy` | Python
 [Maximum Tip Calculator](GeeksForGeeks/MaximumTipCalculator.py) | :heavy_check_mark: | `#dynamic-programming` `#arrays` | Python
 [Maximum Level Sum](GeeksForGeeks/MaxLevelSum.py) | :heavy_check_mark: | `#tree` `#queue` | Python
 [Maximum Money](GeeksForGeeks/MaxMoney.py) | :heavy_check_mark: | `#mathematical` | Python
