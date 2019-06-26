@@ -6,7 +6,7 @@ Implementation of algorithms and data structures from various programming portal
 
 Name | Status | Tags | Languages
 ------------ | ------------- | ------------- | -------------
-[0-1 Knapsack Problem](GeeksForGeeks/01Knapsack.py) | :heavy_check_mark: | `#dynamic-programming` | Python
+[0-1 Knapsack Problem](GeeksForGeeks/01Knapsack.cpp) | :heavy_check_mark: | `#dynamic-programming` | [Python](GeeksForGeeks/01Knapsack.py), [C++](GeeksForGeeks/01Knapsack.cpp)
 [ACODE](spoj/ACODE.py) | :heavy_check_mark: | `#dynamic-programming` | Python
 [ACPC10A](spoj/ACPC10A.py) | :heavy_check_mark: | *no tags* | Python
 [Activity Selection](GeeksForGeeks/ActivitySelection.py) | :heavy_check_mark: | `#greedy` | Python
