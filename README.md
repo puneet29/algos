@@ -53,6 +53,7 @@ Name | Status | Tags | Languages
 [Maximum Tip Calculator](GeeksForGeeks/MaximumTipCalculator.py) | :heavy_check_mark: | `#dynamic-programming` `#arrays` | Python
 [Maximum Level Sum](GeeksForGeeks/MaxLevelSum.py) | :heavy_check_mark: | `#tree` `#queue` | Python
 [Maximum Money](GeeksForGeeks/MaxMoney.py) | :heavy_check_mark: | `#mathematical` | Python
+[Maximum Number of Coins](GeeksForGeeks/MinimumNumberOfCoins.py) | :heavy_check_mark: | `#dynamic-programming` | Python
 [Minimize The Heights](GeeksForGeeks/MinimizeTheHeights.py) | :heavy_check_mark: | `#greedy` `#arrays` | Python
 [Minimize The Sum Of Product](GeeksForGeeks/MinimizeTheSumOfProduct.py) | :heavy_check_mark: | `#greedy` `#arrays` `#sorting` | Python
 [Minimum Difference Pair](GeeksForGeeks/MinDiffPair.py) | :heavy_check_mark: | *no tags* | Python
