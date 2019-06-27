@@ -73,6 +73,7 @@ Name | Status | Tags | Languages
 [SAMER08F](spoj/SAMER08F.cpp) | :heavy_check_mark: | *no tags* | [Python](spoj/SAMER08F.py), [C++](spoj/SAMER08F.cpp)
 [SEQ](spoj/SEQ.cpp) | :heavy_check_mark: | `#transformation-matrix` `#recursive` `#series` | C++
 [Shop In Candy Store](GeeksForGeeks/ShopInCandyStore.py) | :heavy_check_mark: | `#greedy` `#sorting` | Python
+[Shortest Common Supersequence](GeeksForGeeks/ShortestCommonSupersequence.py) | :heavy_check_mark: | `#dynamic-programming` | Python
 [Sorted Array of 0, 1 and 2s](GeeksForGeeks/SortArrOf012.py) | :heavy_check_mark: | `#arrays` `#sorting` | Python
 [Sorted Matrix](GeeksForGeeks/SortedMatrix.py) | :heavy_check_mark: | `#matrix` | Python
 [Sort Game](misc/SortGame.cpp) | :heavy_check_mark: | `#sorting` `#vectors` `#pairs` | C++
