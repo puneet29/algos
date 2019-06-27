@@ -57,6 +57,7 @@ Name | Status | Tags | Languages
 [Minimize The Heights](GeeksForGeeks/MinimizeTheHeights.py) | :heavy_check_mark: | `#greedy` `#arrays` | Python
 [Minimize The Sum Of Product](GeeksForGeeks/MinimizeTheSumOfProduct.py) | :heavy_check_mark: | `#greedy` `#arrays` `#sorting` | Python
 [Minimum Difference Pair](GeeksForGeeks/MinDiffPair.py) | :heavy_check_mark: | *no tags* | Python
+[Minimum Number of Jumps](GeeksForGeeks/MinimumNumberOfJumps.py) | :heavy_check_mark: | `#dynamic-programming` | Python
 [Missing number in array](GeeksForGeeks/MissingNumInArr.py) | :heavy_check_mark: | `#arrays` `#bit-magic` `#searching` | Python
 [N Meets in One Room](GeeksForGeeks/NMeetsInRoom.py) | :heavy_check_mark: | `#greedy` | Python
 [NSTEPS](spoj/NSTEPS.py) | :heavy_check_mark: | `#ad-hoc-1` | Python
