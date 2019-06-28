@@ -30,6 +30,7 @@ Name | Status | Tags | Languages
 [Delete node without head pointer](GeeksForGeeks/DeleteWithoutHead.py) | :heavy_check_mark: | `#linked-list` | Python
 [DoorStatus](GeeksForGeeks/DoorStatus.py) | :heavy_check_mark: | `#TCS` `#mathematics` | Python
 [DOUGHNUT](spoj/DOUGHNUT.py) | :heavy_check_mark: | *no tags* | Python
+[Edit Distance](GeeksForGeek/EditDistance.py) | :heavy_check_mark: | `#dynamic-programming` | Python
 [Equilibrium Point](GeeksForGeek/EquilibriumPoint.py) | :heavy_check_mark: | `#prefix-sum` `#arrays` | Python
 [Expression Tree](GeeksForGeek/ExpressionTree.py) | :heavy_check_mark: | `#tree` `#recursion` | Python
 [FASHION](spoj/FASHION.py) | :heavy_check_mark: | `#ad-hoc-1` | Python
