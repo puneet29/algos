@@ -23,6 +23,7 @@ Name | Status | Tags | Languages
 [BYTESM2](spoj/BYTESM2.cpp) | :heavy_check_mark: | `#dynamic-programming` | [Python](spoj/BYTESM2.py), [C++](spoj/BYTESM2.cpp)
 [CANDY](spoj/CANDY.py) | :heavy_check_mark: | `#ad-hoc-1` | Python
 [Catalan Series](misc/catalan.py) | :heavy_check_mark: | `#series` `#sequence` | C++
+[Coin Change](GeeksForGeeks/CoinChange.py) | :heavy_check_mark: | `#dynamic-programming` | Python
 [COINS](spoj/COINS.py) | :heavy_check_mark: | `#dynamic-programming` | Python
 [Count Subsequence of type a^i b^j c^k](GeeksForGeeks/CountSubSeq.py) | :heavy_check_mark: | `#dynamic-programming` `#strings` | Python
 [Count ways to reach the n'th stair](GeeksForGeeks/CountWaysToNthStair.py) | :heavy_check_mark: | `#dynamic-programming` | Python
