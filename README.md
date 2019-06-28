@@ -48,6 +48,7 @@ Name | Status | Tags | Languages
 [Kth Smallest Element](GeeksForGeeks/KSmallestEle.py) | :rocket: | `#arrays` `#searching` | Python
 [Leaders in an array](GeeksForGeeks/LeadersInArr.py) | :rocket: | `#arrays` `#searching` | Python
 [Linked List Insertion](GeeksForGeeks/LinkedListInsertion.py) | :heavy_check_mark: | `#insertion` `#linked-list` | C++
+[Longest Common Subsequence](GeeksForGeeks/LongestCommonSubsequence.py) | :heavy_check_mark: | `#dynamic-programming` | Python
 [Longest Increasing Subsequence](GeeksForGeeks/LongestIncreasingSubsequence.py) | :heavy_check_mark: | `#dynamic-programming` | Python
 [Majority Element](GeeksForGeeks/MajorityElement.py) | :heavy_check_mark: | `#searching` `#arrays` | Python
 [Maximize Toys](GeeksForGeeks/MaximizeToys.py) | :heavy_check_mark: | `#greedy` | Python
