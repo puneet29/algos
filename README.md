@@ -52,6 +52,7 @@ Name | Status | Tags | Languages
 [Longest Increasing Subsequence](GeeksForGeeks/LongestIncreasingSubsequence.py) | :heavy_check_mark: | `#dynamic-programming` | Python
 [Majority Element](GeeksForGeeks/MajorityElement.py) | :heavy_check_mark: | `#searching` `#arrays` | Python
 [Maximize Toys](GeeksForGeeks/MaximizeToys.py) | :heavy_check_mark: | `#greedy` | Python
+[Maximum Tip Calculator](GeeksForGeeks/MaximumSumIncreasingSubsequence.cpp) | :heavy_check_mark: | `#dynamic-programming` | [Python](GeeksForGeeks/MaximumSumIncreasingSubsequence.py), [C++](GeeksForGeeks/MaximumSumIncreasingSubsequence.cpp)
 [Maximum Tip Calculator](GeeksForGeeks/MaximumTipCalculator.py) | :heavy_check_mark: | `#dynamic-programming` `#arrays` | Python
 [Maximum Level Sum](GeeksForGeeks/MaxLevelSum.py) | :heavy_check_mark: | `#tree` `#queue` | Python
 [Maximum Money](GeeksForGeeks/MaxMoney.py) | :heavy_check_mark: | `#mathematical` | Python
