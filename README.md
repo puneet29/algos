@@ -16,6 +16,7 @@ Name | Status | Tags | Languages
 [AIBOHP](spoj/AIBOHP.cpp) | :heavy_check_mark: | `#dynamic-programming` | [Python](spoj/AIBOHP.py), [C++](spoj/AIBOHP.cpp)
 [ARRAYSUB](spoj/ARRAYSUB.cpp) | :heavy_check_mark: | `#datastructures` `#sliding window` `#deque` | C++
 [Bank Statement](misc/BankStatement.cpp) | :heavy_check_mark: | `#codevita` `#mathematics` | Python
+[BFS of Graph](GeeksForGeeks/BFSOfGraph.py) | :heavy_check_mark: | `#bfs` `#graph` | Python
 [Big Integer Factorial](misc/BigIntFactorial.cpp) | :heavy_check_mark: | `#mathematics` `#big-integers` | C++
 [Binary Search](misc/BinarySearch.cpp) | :heavy_check_mark: | `#array` `#searching` `#divide-and-conquer` | Python
 [Birthday Paradox](misc/BirthdayParadox.cpp) | :heavy_check_mark: | `#mathematics` | C++
