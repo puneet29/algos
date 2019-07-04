@@ -29,6 +29,7 @@ Name | Status | Tags | Languages
 [Count Subsequence of type a^i b^j c^k](GeeksForGeeks/CountSubSeq.py) | :heavy_check_mark: | `#dynamic-programming` `#strings` | Python
 [Count ways to reach the n'th stair](GeeksForGeeks/CountWaysToNthStair.py) | :heavy_check_mark: | `#dynamic-programming` | Python
 [Count ways to reach the n'th stair(Order doesn't matter)](GeeksForGeeks/CountWaysToNthStairNoOrder.py) | :heavy_check_mark: | `#dynamic-programming` `#mathematical` | Python
+[Cycle in Directed Graph](GeeksForGeeks/CycleInDirectedGraph.py) | :heavy_check_mark: | `#graph` | Python
 [Cycle in Undirected Graph](GeeksForGeeks/CycleInUndirectedGraph.py) | :heavy_check_mark: | `#graph` `#dfs` `#union` | Python
 [Delete node without head pointer](GeeksForGeeks/DeleteWithoutHead.py) | :heavy_check_mark: | `#linked-list` | Python
 [DFS of Graph](GeeksForGeeks/DFSOfGraph.py) | :heavy_check_mark: | `#graph` `#dfs` | Python
