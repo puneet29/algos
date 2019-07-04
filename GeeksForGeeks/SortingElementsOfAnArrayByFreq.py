@@ -7,17 +7,12 @@ for _ in range(t):
     a = [int(x) for x in input().split()]
 
     freq = {}
-    ind = {}
-    i = 1
 
     for num in a:
         if(num in freq):
             freq[num] += 1
         else:
             freq[num] = 1
-        if(not num in ind):
-            ind[num] = i
-        i += 1
 
     d = []
 
