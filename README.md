@@ -85,6 +85,7 @@ Name | Status | Tags | Languages
 [SEQ](spoj/SEQ.cpp) | :heavy_check_mark: | `#transformation-matrix` `#recursive` `#series` | C++
 [Shop In Candy Store](GeeksForGeeks/ShopInCandyStore.py) | :heavy_check_mark: | `#greedy` `#sorting` | Python
 [Shortest Common Supersequence](GeeksForGeeks/ShortestCommonSupersequence.py) | :heavy_check_mark: | `#dynamic-programming` | Python
+[Shortest Source to DestinationPath](GeeksForGeeks/ShortestSourceToDestinationPath.py) | :heavy_check_mark: | `#bfs` `#dfs` `#graph` `#matrix` | Python
 [Snake and Ladder Problem](GeeksForGeeks/SnakeAndLadder.py) | :heavy_check_mark: | `#graph` `#bfs` `#dfs` | Python
 [Sorted Array of 0, 1 and 2s](GeeksForGeeks/SortArrOf012.py) | :heavy_check_mark: | `#arrays` `#sorting` | Python
 [Sorted Matrix](GeeksForGeeks/SortedMatrix.py) | :heavy_check_mark: | `#matrix` | Python
