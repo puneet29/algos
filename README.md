@@ -90,6 +90,7 @@ Name | Status | Tags | Languages
 [Sorted Array of 0, 1 and 2s](GeeksForGeeks/SortArrOf012.py) | :heavy_check_mark: | `#arrays` `#sorting` | Python
 [Sorted Matrix](GeeksForGeeks/SortedMatrix.py) | :heavy_check_mark: | `#matrix` | Python
 [Sort Game](misc/SortGame.cpp) | :heavy_check_mark: | `#sorting` `#vectors` `#pairs` | C++
+[Sorting elements of an array by Frequency](GeeksForGeeks/SortingElementsOfAnArrayByFreq.py) | :heavy_check_mark: | `#sorting` `#hash` | Python
 [Sort Linked List](GeeksForGeeks/SortLinkList.cpp) | :dove: | `#sorting` `#linked-list` `#merge-sort` | [Python](SortLinkList.py), [C++](SortLinkList.cpp)
 [Sub array with given sum](GeeksForGeeks/SubarrWithSum.py) | :heavy_check_mark: | `#arrays` `#prefix-sum` `#searching` `#sliding-window` | Python
 [TEST](spoj/TEST.py) | :heavy_check_mark: | `#basic` `#tutorial` `#ad-hoc-1` | Python
