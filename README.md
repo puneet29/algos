@@ -77,6 +77,7 @@ Name | Status | Tags | Languages
 [Palindromic Array](GeeksForGeeks/PalindromicArray.py) | :heavy_check_mark: | `#mathematical` | Python
 [Preorder Traversal](GeeksForGeeks/PreorderTraversal.py) | :heavy_check_mark: | `#tree` | Python
 [PRIME1](spoj/PRIME1.py) | :rocket: | `#number-theory` | Python
+[Relative Sorting](GeeksForGeeks/RelativeSorting.py) | :heavy_check_mark: | `#hash` `#searching` `#sorting` | Python
 [Remove Character](GeeksForGeeks/RemoveChar.py) | :heavy_check_mark: | `#strings` | Python
 [Reverse Bits](GeeksForGeeks/ReverseBits.py) | :heavy_check_mark: | `#bit-magic` `#mathematical` | Python
 [Rotate 2D array by 90 deg without using extra space](GeeksForGeeks/Rotate2D90.py) | :heavy_check_mark: | `#arrays` | Python
