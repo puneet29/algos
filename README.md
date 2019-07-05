@@ -78,6 +78,7 @@ Name | Status | Tags | Languages
 [Odd Even Level Difference](GeeksForGeeks/OddEvenLevDiff.py) | :heavy_check_mark: | `#tree` | Python
 [ONP](spoj/ONP.py) | :heavy_check_mark: | `#stack` | Python
 [Palindromic Array](GeeksForGeeks/PalindromicArray.py) | :heavy_check_mark: | `#mathematical` | Python
+[Peak Element](GeeksForGeeks/PeakElement.py) | :heavy_check_mark: | `#arrays` `#searching` | Python
 [Preorder Traversal](GeeksForGeeks/PreorderTraversal.py) | :heavy_check_mark: | `#tree` | Python
 [PRIME1](spoj/PRIME1.py) | :rocket: | `#number-theory` | Python
 [Relative Sorting](GeeksForGeeks/RelativeSorting.py) | :heavy_check_mark: | `#hash` `#searching` `#sorting` | Python
