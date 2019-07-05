@@ -45,6 +45,7 @@ Name | Status | Tags | Languages
 [FCTRL](spoj/FCTRL.py) | :heavy_check_mark: | `#math` | Python
 [FCTRL2](spoj/FCTRL2.py) | :heavy_check_mark: | `#math` `#big-numbers` | Python
 [Find Middle element of linked list](GeeksForGeeks/FindMidLinkList.py) | :heavy_check_mark: | `#linked-list` | Python
+[Fractions](misc/Fractions.py) | :heavy_check_mark: | *no_tags* | Python
 [Full Binary Tree](GeeksForGeeks/FullBinaryTree.cpp) | :heavy_check_mark: | `#tree` | [Python](GeeksForGeeks/FullBinaryTree.py), [C++](GeeksForGeeks/FullBinaryTree.cpp)
 [Geek Collects the Balls](GeeksForGeeks/GeekCollectsTheBalls.py) | :heavy_check_mark: | `#greedy` | Python
 [German Lotto](misc/GermanLotto.cpp) | :dove: | `#ad-hoc` `#mathematics` `#brute-force` `#complete-search` | C++
