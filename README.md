@@ -53,7 +53,8 @@ Name | Status | Tags | Languages
 [Job Sequencing](GeeksForGeeks/JobSeq.py) | :heavy_check_mark: | `#greedy` `#disjoint-set` | Python
 [Kadane's Algorithm](GeeksForGeeks/KadaneAlgo.py) | :heavy_check_mark: | `#arrays` `#dynamic-programming` | Python
 [Kth Smallest Element](GeeksForGeeks/KSmallestEle.py) | :rocket: | `#arrays` `#searching` | Python
-[Leaders in an array](GeeksForGeeks/LeadersInArr.py) | :rocket: | `#arrays` `#searching` | Python
+[Largest Subarray with 0 Sum](GeeksForGeeks/LargestSubarrayWith0Sum.py) | :heavy_check_mark: | `#arrays` `#hash` | Python
+[Leaders in an array](GeeksForGeeks/LeadersInArr.py) | :heavy_check_mark: | `#arrays` `#searching` | Python
 [Linked List Insertion](GeeksForGeeks/LinkedListInsertion.py) | :heavy_check_mark: | `#insertion` `#linked-list` | C++
 [Longest Common Subsequence](GeeksForGeeks/LongestCommonSubsequence.py) | :heavy_check_mark: | `#dynamic-programming` | Python
 [Longest Increasing Subsequence](GeeksForGeeks/LongestIncreasingSubsequence.py) | :heavy_check_mark: | `#dynamic-programming` | Python
