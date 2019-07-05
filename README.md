@@ -26,6 +26,7 @@ Name | Status | Tags | Languages
 [Catalan Series](misc/catalan.py) | :heavy_check_mark: | `#series` `#sequence` | C++
 [Coin Change](GeeksForGeeks/CoinChange.py) | :heavy_check_mark: | `#dynamic-programming` | Python
 [COINS](spoj/COINS.py) | :heavy_check_mark: | `#dynamic-programming` | Python
+[Convert Time from 12 to 24 hour format](GeeksForGeeks/Convert12to24.py) | :heavy_check_mark: | `#date-time` | Python
 [Count Subsequence of type a^i b^j c^k](GeeksForGeeks/CountSubSeq.py) | :heavy_check_mark: | `#dynamic-programming` `#strings` | Python
 [Count ways to reach the n'th stair](GeeksForGeeks/CountWaysToNthStair.py) | :heavy_check_mark: | `#dynamic-programming` | Python
 [Count ways to reach the n'th stair(Order doesn't matter)](GeeksForGeeks/CountWaysToNthStairNoOrder.py) | :heavy_check_mark: | `#dynamic-programming` `#mathematical` | Python
