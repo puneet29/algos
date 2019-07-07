@@ -79,6 +79,7 @@ Name | Status | Tags | Languages
 [N Meets in One Room](GeeksForGeeks/NMeetsInRoom.py) | :heavy_check_mark: | `#greedy` | Python
 [NSTEPS](spoj/NSTEPS.py) | :heavy_check_mark: | `#ad-hoc-1` | Python
 [Number of Opened Doors](GeeksForGeeks/NumberOfOpenedDoors.py) | :heavy_check_mark: | `#mathematics` | Python
+[Occurences of 2 as a digit](GeeksForGeeks/OccurencesOf2.py) | :heavy_check_mark: | `#number-theory` | Python
 [Odd Even Level Difference](GeeksForGeeks/OddEvenLevDiff.py) | :heavy_check_mark: | `#tree` | Python
 [ONP](spoj/ONP.py) | :heavy_check_mark: | `#stack` | Python
 [Palindromic Array](GeeksForGeeks/PalindromicArray.py) | :heavy_check_mark: | `#mathematical` | Python
