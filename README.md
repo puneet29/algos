@@ -55,6 +55,7 @@ Name | Status | Tags | Languages
 [Inorder Traversal](GeeksForGeeks/InorderTraversal.py) | :heavy_check_mark: | `#tree` | Python
 [Is Sudoku Valid](GeeksForGeeks/IsSudokuValid.py) | :heavy_check_mark: | `#matrix` | Python
 [Job Sequencing](GeeksForGeeks/JobSeq.py) | :heavy_check_mark: | `#greedy` `#disjoint-set` | Python
+[Josephus Problem](GeeksForGeeks/JosephusProblem.py) | :heavy_check_mark: | `#bit-magic` `#recursion` | Python
 [Kadane's Algorithm](GeeksForGeeks/KadaneAlgo.py) | :heavy_check_mark: | `#arrays` `#dynamic-programming` | Python
 [Kth Smallest Element](GeeksForGeeks/KSmallestEle.py) | :rocket: | `#arrays` `#searching` | Python
 [Largest Subarray with 0 Sum](GeeksForGeeks/LargestSubarrayWith0Sum.py) | :heavy_check_mark: | `#arrays` `#hash` | Python
