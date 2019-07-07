@@ -24,6 +24,7 @@ Name | Status | Tags | Languages
 [BYTESM2](spoj/BYTESM2.cpp) | :heavy_check_mark: | `#dynamic-programming` | [Python](spoj/BYTESM2.py), [C++](spoj/BYTESM2.cpp)
 [CANDY](spoj/CANDY.py) | :heavy_check_mark: | `#ad-hoc-1` | Python
 [Catalan Series](misc/catalan.py) | :heavy_check_mark: | `#series` `#sequence` | C++
+[Check Unique Characters in String](GeeksForGeeks/CheckUniqueCharsInStr.py) | :heavy_check_mark: | `#strings` | Python
 [Coin Change](GeeksForGeeks/CoinChange.py) | :heavy_check_mark: | `#dynamic-programming` | Python
 [COINS](spoj/COINS.py) | :heavy_check_mark: | `#dynamic-programming` | Python
 [Concatenation of Zig-Zag String in ‘n’ Rows](GeeksForGeeks/ConcatOfZigZagString.py) | :heavy_check_mark: | `#strings` | Python
