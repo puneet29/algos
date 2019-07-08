@@ -63,7 +63,8 @@ Name | Status | Tags | Languages
 [Largest Subarray with 0 Sum](GeeksForGeeks/LargestSubarrayWith0Sum.py) | :heavy_check_mark: | `#arrays` `#hash` | Python
 [Leaders in an array](GeeksForGeeks/LeadersInArr.py) | :heavy_check_mark: | `#arrays` `#searching` | Python
 [Legendre Polynomials](misc/Legendre.py) | :heavy_check_mark: | `#legendre` `#dynamic-programming` | Python
-[Linked List Insertion](GeeksForGeeks/LinkedListInsertion.py) | :heavy_check_mark: | `#insertion` `#linked-list` | C++
+[Linked List Insertion](GeeksForGeeks/LinkedListInsertion.py) | :heavy_check_mark: | `#insertion` `#linked-list` | Python
+[Linked List Reversal](GeeksForGeeks/LinkedListReversal.py) | :heavy_check_mark: | `#linked-list` | Python
 [Longest Common Subsequence](GeeksForGeeks/LongestCommonSubsequence.py) | :heavy_check_mark: | `#dynamic-programming` | Python
 [Longest Increasing Subsequence](GeeksForGeeks/LongestIncreasingSubsequence.py) | :heavy_check_mark: | `#dynamic-programming` | Python
 [Majority Element](GeeksForGeeks/MajorityElement.py) | :heavy_check_mark: | `#searching` `#arrays` | Python
