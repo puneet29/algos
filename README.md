@@ -83,6 +83,7 @@ Name | Status | Tags | Languages
 [Missing number in array](GeeksForGeeks/MissingNumInArr.py) | :heavy_check_mark: | `#arrays` `#bit-magic` `#searching` | Python
 [N Meets in One Room](GeeksForGeeks/NMeetsInRoom.py) | :heavy_check_mark: | `#greedy` | Python
 [NSTEPS](spoj/NSTEPS.py) | :heavy_check_mark: | `#ad-hoc-1` | Python
+[Nth node from end of linked list](GeeksForGeeks/NthNodeFromEnd.py) | :heavy_check_mark: | `#linked-list` | Python
 [Number of Opened Doors](GeeksForGeeks/NumberOfOpenedDoors.py) | :heavy_check_mark: | `#mathematics` | Python
 [Occurences of 2 as a digit](GeeksForGeeks/OccurencesOf2.py) | :heavy_check_mark: | `#number-theory` | Python
 [Odd Even Level Difference](GeeksForGeeks/OddEvenLevDiff.py) | :heavy_check_mark: | `#tree` | Python
