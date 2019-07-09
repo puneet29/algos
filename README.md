@@ -107,6 +107,7 @@ Name | Status | Tags | Languages
 [Rotate by 90 degree](GeeksForGeeks/RotateBy90.py) | :heavy_check_mark: | `#matrix` | Python
 [Run Length Encoding](GeeksForGeeks/RunLengthEncoding.py) | :heavy_check_mark: | `#strings` | Python
 [SAMER08F](spoj/SAMER08F.cpp) | :heavy_check_mark: | *no tags* | [Python](spoj/SAMER08F.py), [C++](spoj/SAMER08F.cpp)
+[Search in a Rotated Array](GeeksForGeeks/SearchInRotatedArray.py) | :heavy_check_mark: | `#divide and conquer` `#searching` | Python
 [SEQ](spoj/SEQ.cpp) | :heavy_check_mark: | `#transformation-matrix` `#recursive` `#series` | C++
 [Shop In Candy Store](GeeksForGeeks/ShopInCandyStore.py) | :heavy_check_mark: | `#greedy` `#sorting` | Python
 [Shortest Common Supersequence](GeeksForGeeks/ShortestCommonSupersequence.py) | :heavy_check_mark: | `#dynamic-programming` | Python
