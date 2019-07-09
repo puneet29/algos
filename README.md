@@ -15,6 +15,7 @@ Name | Status | Tags | Languages
 [AGGRCOW](spoj/AGGRCOW.py) | :heavy_check_mark: | `#binary-search` | Python
 [AIBOHP](spoj/AIBOHP.cpp) | :heavy_check_mark: | `#dynamic-programming` | [Python](spoj/AIBOHP.py), [C++](spoj/AIBOHP.cpp)
 [ARRAYSUB](spoj/ARRAYSUB.cpp) | :heavy_check_mark: | `#datastructures` `#sliding window` `#deque` | C++
+[Balancing Stars](misc/BalancingStars.py) | :heavy_check_mark: | `#codevita` `#stack` | Python
 [Bank Statement](misc/BankStatement.cpp) | :heavy_check_mark: | `#codevita` `#mathematics` | Python
 [BFS of Graph](GeeksForGeeks/BFSOfGraph.py) | :heavy_check_mark: | `#bfs` `#graph` | Python
 [Big Integer Factorial](misc/BigIntFactorial.cpp) | :heavy_check_mark: | `#mathematics` `#big-integers` | C++
