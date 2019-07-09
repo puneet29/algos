@@ -94,6 +94,7 @@ Name | Status | Tags | Languages
 [Pattern 1](misc/Pattern1.py) | :heavy_check_mark: | `#pattern` | Python
 [Peak Element](GeeksForGeeks/PeakElement.py) | :heavy_check_mark: | `#arrays` `#searching` | Python
 [Permutations of a given string](GeeksForGeeks/PermutationsOfAString.py) | :heavy_check_mark: | `#recursion` `#strings` | Python
+[Philaland Coin](misc/PhilalandCoin.py) | :heavy_check_mark: | `#number-theory` `#codevita` | Python
 [Preorder Traversal](GeeksForGeeks/PreorderTraversal.py) | :heavy_check_mark: | `#tree` | Python
 [Prime Fibonacci](misc/PrimeFibonnaci.py) | :heavy_check_mark: | `#codevita` `#number-theory` | Python
 [PRIME1](spoj/PRIME1.py) | :rocket: | `#number-theory` | Python
