@@ -69,6 +69,7 @@ Name | Status | Tags | Languages
 [Longest Common Subsequence](GeeksForGeeks/LongestCommonSubsequence.py) | :heavy_check_mark: | `#dynamic-programming` | Python
 [Longest Increasing Subsequence](GeeksForGeeks/LongestIncreasingSubsequence.py) | :heavy_check_mark: | `#dynamic-programming` | Python
 [Majority Element](GeeksForGeeks/MajorityElement.py) | :heavy_check_mark: | `#searching` `#arrays` | Python
+[Market Survey](misc/MarketSurvey.py) | :heavy_check_mark: | `#codevita` | Python
 [Maximize Toys](GeeksForGeeks/MaximizeToys.py) | :heavy_check_mark: | `#greedy` | Python
 [Maximum Tip Calculator](GeeksForGeeks/MaximumSumIncreasingSubsequence.cpp) | :heavy_check_mark: | `#dynamic-programming` | [Python](GeeksForGeeks/MaximumSumIncreasingSubsequence.py), [C++](GeeksForGeeks/MaximumSumIncreasingSubsequence.cpp)
 [Maximum Tip Calculator](GeeksForGeeks/MaximumTipCalculator.py) | :heavy_check_mark: | `#dynamic-programming` `#arrays` | Python
