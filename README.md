@@ -91,6 +91,7 @@ Name | Status | Tags | Languages
 [Palindromic Array](GeeksForGeeks/PalindromicArray.py) | :heavy_check_mark: | `#mathematical` | Python
 [Pattern 1](misc/Pattern1.py) | :heavy_check_mark: | `#pattern` | Python
 [Peak Element](GeeksForGeeks/PeakElement.py) | :heavy_check_mark: | `#arrays` `#searching` | Python
+[Permutations of a given string](GeeksForGeeks/PermutationsOfAString.py) | :heavy_check_mark: | `#recursion` `#strings` | Python
 [Preorder Traversal](GeeksForGeeks/PreorderTraversal.py) | :heavy_check_mark: | `#tree` | Python
 [PRIME1](spoj/PRIME1.py) | :rocket: | `#number-theory` | Python
 [Relative Sorting](GeeksForGeeks/RelativeSorting.py) | :heavy_check_mark: | `#hash` `#searching` `#sorting` | Python
