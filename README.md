@@ -48,6 +48,7 @@ Name | Status | Tags | Languages
 [FASHION](spoj/FASHION.py) | :heavy_check_mark: | `#ad-hoc-1` | Python
 [FCTRL](spoj/FCTRL.py) | :heavy_check_mark: | `#math` | Python
 [FCTRL2](spoj/FCTRL2.py) | :heavy_check_mark: | `#math` `#big-numbers` | Python
+[Find element that appears once in sorted array](GeeksForGeeks/EleAppearsOnceInSorted.py) | :heavy_check_mark: | `#divide and conquer` `searching` | Python
 [Find Middle element of linked list](GeeksForGeeks/FindMidLinkList.py) | :heavy_check_mark: | `#linked-list` | Python
 [Fractions](misc/Fractions.py) | :heavy_check_mark: | *no_tags* | Python
 [Full Binary Tree](GeeksForGeeks/FullBinaryTree.cpp) | :heavy_check_mark: | `#tree` | [Python](GeeksForGeeks/FullBinaryTree.py), [C++](GeeksForGeeks/FullBinaryTree.cpp)
