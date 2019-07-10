@@ -99,6 +99,7 @@ Name | Status | Tags | Languages
 [Preorder Traversal](GeeksForGeeks/PreorderTraversal.py) | :heavy_check_mark: | `#tree` | Python
 [Prime Fibonacci](misc/PrimeFibonnaci.py) | :heavy_check_mark: | `#codevita` `#number-theory` | Python
 [PRIME1](spoj/PRIME1.py) | :rocket: | `#number-theory` | Python
+[Quick Sort](GeeksForGeeks/QuickSort.py) | :heavy_check_mark: | `#divide and conquer` `#sorting` | Python
 [Relative Sorting](GeeksForGeeks/RelativeSorting.py) | :heavy_check_mark: | `#hash` `#searching` `#sorting` | Python
 [Remove Character](GeeksForGeeks/RemoveChar.py) | :heavy_check_mark: | `#strings` | Python
 [Reverse Bits](GeeksForGeeks/ReverseBits.py) | :heavy_check_mark: | `#bit-magic` `#mathematical` | Python
