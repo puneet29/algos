@@ -118,6 +118,7 @@ Name | Status | Tags | Languages
 [Shortest Common Supersequence](GeeksForGeeks/ShortestCommonSupersequence.py) | :heavy_check_mark: | `#dynamic-programming` | Python
 [Shortest Source to DestinationPath](GeeksForGeeks/ShortestSourceToDestinationPath.py) | :heavy_check_mark: | `#bfs` `#dfs` `#graph` `#matrix` | Python
 [Snake and Ladder Problem](GeeksForGeeks/SnakeAndLadder.py) | :heavy_check_mark: | `#graph` `#bfs` `#dfs` | Python
+[Solve The Sudoku](GeeksForGeeks/SolveTheSudoku.py) | :heavy_check_mark: | `#matrix` `#backtracking` | Python
 [Sorted Array of 0, 1 and 2s](GeeksForGeeks/SortArrOf012.py) | :heavy_check_mark: | `#arrays` `#sorting` | Python
 [Sorted Matrix](GeeksForGeeks/SortedMatrix.py) | :heavy_check_mark: | `#matrix` | Python
 [Sort Game](misc/SortGame.cpp) | :heavy_check_mark: | `#sorting` `#vectors` `#pairs` | C++
