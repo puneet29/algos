@@ -87,6 +87,7 @@ Name | Status | Tags | Languages
 [Mirror Tree](GeeksForGeeks/MirrorTree.py) | :heavy_check_mark: | `#tree` | Python
 [Missing number in array](GeeksForGeeks/MissingNumInArr.py) | :heavy_check_mark: | `#arrays` `#bit-magic` `#searching` | Python
 [N Meets in One Room](GeeksForGeeks/NMeetsInRoom.py) | :heavy_check_mark: | `#greedy` | Python
+[N-Queen Problem](GeeksForGeeks/nQueen.py) | :heavy_check_mark: | `#backtracking` | Python
 [NSTEPS](spoj/NSTEPS.py) | :heavy_check_mark: | `#ad-hoc-1` | Python
 [Nth node from end of linked list](GeeksForGeeks/NthNodeFromEnd.py) | :heavy_check_mark: | `#linked-list` | Python
 [Number of Opened Doors](GeeksForGeeks/NumberOfOpenedDoors.py) | :heavy_check_mark: | `#mathematics` | Python
