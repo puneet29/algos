@@ -109,6 +109,7 @@ Name | Status | Tags | Languages
 [Reverse Bits](GeeksForGeeks/ReverseBits.py) | :heavy_check_mark: | `#bit-magic` `#mathematical` | Python
 [Reverse Words In a String](GeeksForGeeks/ReverseWordsInString.py) | :heavy_check_mark: | `#strings` | Python
 [Rotate 2D array by 90 deg without using extra space](GeeksForGeeks/Rotate2D90.py) | :heavy_check_mark: | `#arrays` | Python
+[Rotate a linked list](GeeksForGeeks/RotateALinkList.py) | :heavy_check_mark: | `#linked-list` | Python
 [Rotate by 90 degree](GeeksForGeeks/RotateBy90.py) | :heavy_check_mark: | `#matrix` | Python
 [Run Length Encoding](GeeksForGeeks/RunLengthEncoding.py) | :heavy_check_mark: | `#strings` | Python
 [SAMER08F](spoj/SAMER08F.cpp) | :heavy_check_mark: | *no tags* | [Python](spoj/SAMER08F.py), [C++](spoj/SAMER08F.cpp)
