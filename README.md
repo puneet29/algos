@@ -104,6 +104,7 @@ Name | Status | Tags | Languages
 [Preorder Traversal](GeeksForGeeks/PreorderTraversal.py) | :heavy_check_mark: | `#tree` | Python
 [Prime Fibonacci](misc/PrimeFibonnaci.py) | :heavy_check_mark: | `#codevita` `#number-theory` | Python
 [PRIME1](spoj/PRIME1.py) | :rocket: | `#number-theory` | Python
+[Queue Using Linked List](GeeksForGeeks/QueueLinkList.py) | :heavy_check_mark: | `#queue` `#linked-list` | Python
 [Quick Sort](GeeksForGeeks/QuickSort.py) | :heavy_check_mark: | `#divide and conquer` `#sorting` | Python
 [Rat in a Maze Problem](GeeksForGeeks/RatInMazeProblem.py) | :heavy_check_mark: | `#backtracking` `#matrix` | Python
 [Relative Sorting](GeeksForGeeks/RelativeSorting.py) | :heavy_check_mark: | `#hash` `#searching` `#sorting` | Python
