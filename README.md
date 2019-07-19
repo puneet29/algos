@@ -128,7 +128,8 @@ Name | Status | Tags | Languages
 [Sorted Matrix](GeeksForGeeks/SortedMatrix.py) | :heavy_check_mark: | `#matrix` | Python
 [Sort Game](misc/SortGame.cpp) | :heavy_check_mark: | `#sorting` `#vectors` `#pairs` | C++
 [Sorting elements of an array by Frequency](GeeksForGeeks/SortingElementsOfAnArrayByFreq.py) | :heavy_check_mark: | `#sorting` `#hash` | Python
-[Sort Linked List](GeeksForGeeks/SortLinkList.cpp) | :dove: | `#sorting` `#linked-list` `#merge-sort` | [Python](SortLinkList.py), [C++](SortLinkList.cpp)
+[Sort Linked List](GeeksForGeeks/SortLinkList.cpp) | :heavy_check_mark: | `#sorting` `#linked-list` `#merge-sort` | [Python](SortLinkList.py), [C++](SortLinkList.cpp)
+[Stack Using Linked List](GeeksForGeeks/StackLinkList.cpp) | :heavy_check_mark: | `#stack` `#linked-list` | Python
 [Sub array with given sum](GeeksForGeeks/SubarrWithSum.py) | :heavy_check_mark: | `#arrays` `#prefix-sum` `#searching` `#sliding-window` | Python
 [Sum of Middle Elements of two sorted arrays](GeeksForGeeks/SumOfMidEleOfTwoSortedArr.py) | :heavy_check_mark: | `#arrays` `#divide and conquer` | Python
 [TEST](spoj/TEST.py) | :heavy_check_mark: | `#basic` `#tutorial` `#ad-hoc-1` | Python
