@@ -60,6 +60,7 @@ Name | Status | Tags | Languages
 [How many X's](GeeksForGeeks/HowManyXs.py) | :heavy_check_mark: | `#modular-arithmetic` `#numbers` | Python
 [Inorder Traversal](GeeksForGeeks/InorderTraversal.py) | :heavy_check_mark: | `#tree` | Python
 [Intersection point in Y shaped linked lists](GeeksForGeeks/IntersectionInYShapeLinkList.py) | :heavy_check_mark: | `#linked-list` | Python
+[Inversion Of Array](GeeksForGeeks/InversionOfArray.py) | :heavy_check_mark: | `#arrays` `#sorting` | Python
 [Is Sudoku Valid](GeeksForGeeks/IsSudokuValid.py) | :heavy_check_mark: | `#matrix` | Python
 [Job Sequencing](GeeksForGeeks/JobSeq.py) | :heavy_check_mark: | `#greedy` `#disjoint-set` | Python
 [Josephus Problem](GeeksForGeeks/JosephusProblem.py) | :heavy_check_mark: | `#bit-magic` `#recursion` | Python
