@@ -50,6 +50,7 @@ Name | Status | Tags | Languages
 [FCTRL2](spoj/FCTRL2.py) | :heavy_check_mark: | `#math` `#big-numbers` | Python
 [Find element that appears once in sorted array](GeeksForGeeks/EleAppearsOnceInSorted.py) | :heavy_check_mark: | `#divide and conquer` `searching` | Python
 [Find Middle element of linked list](GeeksForGeeks/FindMidLinkList.py) | :heavy_check_mark: | `#linked-list` | Python
+[First non-repeating character in a stream](GeeksForGeeks/FirstNonRepCharInStream.py) | :heavy_check_mark: | `#linked-list` `#queue` `#hash` | Python
 [Flattening a linked list](GeeksForGeeks/FlatteningALinkList.cpp) | :heavy_check_mark: | `#linked-list` | C++
 [Fractions](misc/Fractions.py) | :heavy_check_mark: | *no_tags* | Python
 [Full Binary Tree](GeeksForGeeks/FullBinaryTree.cpp) | :heavy_check_mark: | `#tree` | [Python](GeeksForGeeks/FullBinaryTree.py), [C++](GeeksForGeeks/FullBinaryTree.cpp)
