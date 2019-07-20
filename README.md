@@ -65,6 +65,7 @@ Name | Status | Tags | Languages
 [Job Sequencing](GeeksForGeeks/JobSeq.py) | :heavy_check_mark: | `#greedy` `#disjoint-set` | Python
 [Josephus Problem](GeeksForGeeks/JosephusProblem.py) | :heavy_check_mark: | `#bit-magic` `#recursion` | Python
 [Kadane's Algorithm](GeeksForGeeks/KadaneAlgo.py) | :heavy_check_mark: | `#arrays` `#dynamic-programming` | Python
+[Karatsuba Algorithm](GeeksForGeeks/KaratsubaAlgorithm.py) | :heavy_check_mark: | `#strings` `#divide and conquer` | Python
 [Kth element of two sorted Arrays](GeeksForGeeks/KthElementOf2SortedArrays.py) | :heavy_check_mark: | `#arrays` `#divide and conquer` | Python
 [Kth Smallest Element](GeeksForGeeks/KSmallestEle.py) | :rocket: | `#arrays` `#searching` | Python
 [Largest Subarray with 0 Sum](GeeksForGeeks/LargestSubarrayWith0Sum.py) | :heavy_check_mark: | `#arrays` `#hash` | Python
