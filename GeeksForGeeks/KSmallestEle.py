@@ -1,33 +1,25 @@
-# Problem Description: https://practice.geeksforgeeks.org/problems/kth-smallest-element/
+# Problem Description: https://practice.geeksforgeeks.org/problems/kth-smallest-element/0
 
-def insert(window, element, k):
-    n = len(window)
-    if(not n):
-        window.append(element)
-    elif(n == k):
-        for i in range(k):
-            if(window[i] > element):
-                window.insert(i, element)
-                break
-        if(len(window) > k):
-            del window[k]
-    else:
-        for i in range(n):
-            if(window[i] > element):
-                window.insert(i, element)
-                return
-        window.append(element)
+def kthSmallest(a, n, k):
+    maxEle = max(a)
+
+    h = [0 for i in range(maxEle+1)]
+
+    for i in range(n):
+        h[a[i]] += 1
+
+    for i in range(1, maxEle+1):
+        if(h[i] >= 1):
+            k -= 1
+        if(k == 0):
+            print(i)
+            break
 
 
 t = int(input())
 
 for _ in range(t):
     n = int(input())
-    arr = [int(x) for x in input().split()]
+    a = [int(x) for x in input().split()]
     k = int(input())
-
-    window = []
-    for i in range(n):
-        insert(window, arr[i], k)
-
-    print(window[-1])
+    kthSmallest(a, n, k)
