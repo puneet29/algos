@@ -16,6 +16,7 @@ Name | Status | Tags | Languages
 [AIBOHP](spoj/AIBOHP.cpp) | :heavy_check_mark: | `#dynamic-programming` | [Python](spoj/AIBOHP.py), [C++](spoj/AIBOHP.cpp)
 [Anagram](GeeksForGeeks/Anagram.py) | :heavy_check_mark: | `#strings` | Python
 [ARRAYSUB](spoj/ARRAYSUB.cpp) | :heavy_check_mark: | `#datastructures` `#sliding window` `#deque` | C++
+[Implement Atoi](GeeksForGeeks/atoi.py) | :heavy_check_mark: | `#strings` | Python
 [Balancing Stars](misc/BalancingStars.py) | :heavy_check_mark: | `#codevita` `#stack` | Python
 [Bank Statement](misc/BankStatement.cpp) | :heavy_check_mark: | `#codevita` `#mathematics` | Python
 [BFS of Graph](GeeksForGeeks/BFSOfGraph.py) | :heavy_check_mark: | `#bfs` `#graph` | Python
