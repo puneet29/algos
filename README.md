@@ -14,6 +14,7 @@ Name | Status | Tags | Languages
 [AE00](spoj/AE00.py) | :heavy_check_mark: | `#ad-hoc-1` | Python
 [AGGRCOW](spoj/AGGRCOW.py) | :heavy_check_mark: | `#binary-search` | Python
 [AIBOHP](spoj/AIBOHP.cpp) | :heavy_check_mark: | `#dynamic-programming` | [Python](spoj/AIBOHP.py), [C++](spoj/AIBOHP.cpp)
+[Anagram](GeeksForGeeks/Anagram.py) | :heavy_check_mark: | `#strings` | Python
 [ARRAYSUB](spoj/ARRAYSUB.cpp) | :heavy_check_mark: | `#datastructures` `#sliding window` `#deque` | C++
 [Balancing Stars](misc/BalancingStars.py) | :heavy_check_mark: | `#codevita` `#stack` | Python
 [Bank Statement](misc/BankStatement.cpp) | :heavy_check_mark: | `#codevita` `#mathematics` | Python
