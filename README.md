@@ -74,6 +74,7 @@ Name | Status | Tags | Languages
 [Legendre Polynomials](misc/Legendre.py) | :heavy_check_mark: | `#legendre` `#dynamic-programming` | Python
 [Linked List Insertion](GeeksForGeeks/LinkedListInsertion.py) | :heavy_check_mark: | `#insertion` `#linked-list` | Python
 [Linked List Reversal](GeeksForGeeks/LinkedListReversal.py) | :heavy_check_mark: | `#linked-list` | Python
+[Longest Common Prefix in Array](GeeksForGeeks/LongestCommonPrefixInArr.py) | :heavy_check_mark: | `#strings` | Python
 [Longest Common Subsequence](GeeksForGeeks/LongestCommonSubsequence.py) | :heavy_check_mark: | `#dynamic-programming` | Python
 [Longest Distinct Characters in String](GeeksForGeeks/LongestDistinctCharsInStr.py) | :heavy_check_mark: | `#strings` | Python
 [Longest Increasing Subsequence](GeeksForGeeks/LongestIncreasingSubsequence.py) | :heavy_check_mark: | `#dynamic-programming` | Python
