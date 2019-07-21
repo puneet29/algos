@@ -135,6 +135,7 @@ Name | Status | Tags | Languages
 [Sort Linked List](GeeksForGeeks/SortLinkList.cpp) | :heavy_check_mark: | `#sorting` `#linked-list` `#merge-sort` | [Python](SortLinkList.py), [C++](SortLinkList.cpp)
 [Stack Using Linked List](GeeksForGeeks/StackLinkList.py) | :heavy_check_mark: | `#stack` `#linked-list` | Python
 [Stack Using Two Queues](GeeksForGeeks/StackUsingTwoQueues.py) | :heavy_check_mark: | `#stack` `#queue` | Python
+[Stock Buy and Sell](GeeksForGeeks/StockBuyAndSell.py) | :heavy_check_mark: | `#arrays` | Python
 [Sub array with given sum](GeeksForGeeks/SubarrWithSum.py) | :heavy_check_mark: | `#arrays` `#prefix-sum` `#searching` `#sliding-window` | Python
 [Sum of Middle Elements of two sorted arrays](GeeksForGeeks/SumOfMidEleOfTwoSortedArr.py) | :heavy_check_mark: | `#arrays` `#divide and conquer` | Python
 [TEST](spoj/TEST.py) | :heavy_check_mark: | `#basic` `#tutorial` `#ad-hoc-1` | Python
