@@ -115,6 +115,7 @@ Name | Status | Tags | Languages
 [Queue Using Two Stacks](GeeksForGeeks/QueueUsingTwoStacks.cpp) | :heavy_check_mark: | `#queue` `#stack` `#STL` | C++
 [Quick Sort](GeeksForGeeks/QuickSort.py) | :heavy_check_mark: | `#divide and conquer` `#sorting` | Python
 [Rat in a Maze Problem](GeeksForGeeks/RatInMazeProblem.py) | :heavy_check_mark: | `#backtracking` `#matrix` | Python
+[Recursively remove all adjacent duplicates](GeeksForGeeks/RecRemAllAdjDuplicates.py) | :heavy_check_mark: | `#recursion` `#strings` | Python
 [Relative Sorting](GeeksForGeeks/RelativeSorting.py) | :heavy_check_mark: | `#hash` `#searching` `#sorting` | Python
 [Remove Character](GeeksForGeeks/RemoveChar.py) | :heavy_check_mark: | `#strings` | Python
 [Remove Duplicates](GeeksForGeeks/RemoveDuplicates.py) | :heavy_check_mark: | `#strings` | Python
