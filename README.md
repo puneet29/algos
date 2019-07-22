@@ -123,6 +123,7 @@ Name | Status | Tags | Languages
 [Remove Duplicates](GeeksForGeeks/RemoveDuplicates.py) | :heavy_check_mark: | `#strings` | Python
 [Remove Loop in Linked List](GeeksForGeeks/RemoveLoopInLinkList.py) | :heavy_check_mark: | `#linked-list` `two-pointer-algorithm` | Python
 [Reverse Bits](GeeksForGeeks/ReverseBits.py) | :heavy_check_mark: | `#bit-magic` `#mathematical` | Python
+[Reverse a Linked List in groups of given size](GeeksForGeeks/ReverseLinkListInGroup.py) | :heavy_check_mark: | `#linked-list` | Python
 [Reverse Words In a String](GeeksForGeeks/ReverseWordsInString.py) | :heavy_check_mark: | `#strings` | Python
 [Roman Number to Integer](GeeksForGeeks/RomanNumberToInt.py) | :heavy_check_mark: | `#strings` | Python
 [Rotate 2D array by 90 deg without using extra space](GeeksForGeeks/Rotate2D90.py) | :heavy_check_mark: | `#arrays` | Python
