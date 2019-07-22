@@ -108,6 +108,7 @@ Name | Status | Tags | Languages
 [Odd Even Level Difference](GeeksForGeeks/OddEvenLevDiff.py) | :heavy_check_mark: | `#tree` | Python
 [ONP](spoj/ONP.py) | :heavy_check_mark: | `#stack` | Python
 [Palindromic Array](GeeksForGeeks/PalindromicArray.py) | :heavy_check_mark: | `#mathematical` | Python
+[Parenthesis Checker](GeeksForGeeks/ParenthesisChecker.py) | :heavy_check_mark: | `#stack` | Python
 [Pattern 1](misc/Pattern1.py) | :heavy_check_mark: | `#pattern` | Python
 [Peak Element](GeeksForGeeks/PeakElement.py) | :heavy_check_mark: | `#arrays` `#searching` | Python
 [Permutations of a given string](GeeksForGeeks/PermutationsOfAString.py) | :heavy_check_mark: | `#recursion` `#strings` | Python
