@@ -41,6 +41,7 @@ Name | Status | Tags | Languages
 [Cycle in Undirected Graph](GeeksForGeeks/CycleInUndirectedGraph.py) | :heavy_check_mark: | `#graph` `#dfs` `#union` | Python
 [Delete node without head pointer](GeeksForGeeks/DeleteWithoutHead.py) | :heavy_check_mark: | `#linked-list` | Python
 [Detect Loop in Linked List](GeeksForGeeks/DetectLoopInLinkedList.py) | :heavy_check_mark: | `#linked-list` | Python
+[Determine if Two Trees are Identical](GeeksForGeeks/TwoTreesIdentical.py) | :heavy_check_mark: | `#tree` | Python
 [DFS of Graph](GeeksForGeeks/DFSOfGraph.py) | :heavy_check_mark: | `#graph` `#dfs` | Python
 [DoorStatus](GeeksForGeeks/DoorStatus.py) | :heavy_check_mark: | `#TCS` `#mathematics` | Python
 [DOUGHNUT](spoj/DOUGHNUT.py) | :heavy_check_mark: | *no tags* | Python
