@@ -33,6 +33,7 @@ Name | Status | Tags | Languages
 [COINS](spoj/COINS.py) | :heavy_check_mark: | `#dynamic-programming` | Python
 [Concatenation of Zig-Zag String in ‘n’ Rows](GeeksForGeeks/ConcatOfZigZagString.py) | :heavy_check_mark: | `#strings` | Python
 [Convert Time from 12 to 24 hour format](GeeksForGeeks/Convert12to24.py) | :heavy_check_mark: | `#date-time` | Python
+[Count Leaves in Binary Tree](GeeksForGeeks/CountLeavesInBinTree.py) | :heavy_check_mark: | `#tree` | Python
 [Count Subsequence of type a^i b^j c^k](GeeksForGeeks/CountSubSeq.py) | :heavy_check_mark: | `#dynamic-programming` `#strings` | Python
 [Count ways to reach the n'th stair](GeeksForGeeks/CountWaysToNthStair.py) | :heavy_check_mark: | `#dynamic-programming` | Python
 [Count ways to reach the n'th stair(Order doesn't matter)](GeeksForGeeks/CountWaysToNthStairNoOrder.py) | :heavy_check_mark: | `#dynamic-programming` `#mathematical` | Python
