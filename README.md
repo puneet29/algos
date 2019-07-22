@@ -92,6 +92,7 @@ Name | Status | Tags | Languages
 [Maximum Number of Coins](GeeksForGeeks/MinimumNumberOfCoins.py) | :heavy_check_mark: | `#dynamic-programming` | Python
 [Merge Sort](GeeksForGeeks/MergeSort.py) | :heavy_check_mark: | `#divide and conquer` `#sorting` | Python
 [Merge Two Sorted Arrays](GeeksForGeeks/MergeTwoSortedArrays.py) | :heavy_check_mark: | `#arrays` `#mathematical` `#sorting` | Python
+[Merge Two Sorted Linked Lists](GeeksForGeeks/MergeTwoSortedLinkList.py) | :heavy_check_mark: | `#linked-list` | Python
 [Minimize The Heights](GeeksForGeeks/MinimizeTheHeights.py) | :heavy_check_mark: | `#greedy` `#arrays` | Python
 [Minimize The Sum Of Product](GeeksForGeeks/MinimizeTheSumOfProduct.py) | :heavy_check_mark: | `#greedy` `#arrays` `#sorting` | Python
 [Minimum Difference Pair](GeeksForGeeks/MinDiffPair.py) | :heavy_check_mark: | *no tags* | Python
