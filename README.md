@@ -145,6 +145,7 @@ Name | Status | Tags | Languages
 [Sort Game](misc/SortGame.cpp) | :heavy_check_mark: | `#sorting` `#vectors` `#pairs` | C++
 [Sorting elements of an array by Frequency](GeeksForGeeks/SortingElementsOfAnArrayByFreq.py) | :heavy_check_mark: | `#sorting` `#hash` | Python
 [Sort Linked List](GeeksForGeeks/SortLinkList.cpp) | :heavy_check_mark: | `#sorting` `#linked-list` `#merge-sort` | [Python](SortLinkList.py), [C++](SortLinkList.cpp)
+[Sort Linked List of 0s, 1s and 2s](GeeksForGeeks/SortLinkListOf012.py) | :heavy_check_mark: | `#linked-list` | Python
 [Stack Using Linked List](GeeksForGeeks/StackLinkList.py) | :heavy_check_mark: | `#stack` `#linked-list` | Python
 [Stack Using Two Queues](GeeksForGeeks/StackUsingTwoQueues.py) | :heavy_check_mark: | `#stack` `#queue` | Python
 [Stock Buy and Sell](GeeksForGeeks/StockBuyAndSell.py) | :heavy_check_mark: | `#arrays` | Python
