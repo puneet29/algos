@@ -22,38 +22,28 @@ class LinkedList:
         print()
 
 
-def reverseUtil(head, k):
+def reverse(head, k):
     stack = []
     i = 0
 
-    while(head and i < k):
-        stack.append(head)
+    temp = []
+    while(head):
+        temp.append(head)
         head = head.next
         i += 1
+        if(i % k == 0):
+            stack.append(temp)
+            temp = []
+    stack.append(temp)
 
-    nextNode = None
-    newHead = None
-    if(head):
-        nextNode = head
-
-    if(len(stack) > 0):
-        newHead = stack.pop()
-    temp = newHead
-
-    while(len(stack) > 0):
-        temp.next = stack.pop()
-        temp = temp.next
-    temp.next = None
-    return newHead, nextNode, temp
-
-
-def reverse(head, k):
     newHead = Node(None)
     temp = newHead
-    while(head):
-        temp.next, head, lastNode = reverseUtil(head, k)
-        temp = lastNode
 
+    for i in stack:
+        for j in reversed(i):
+            temp.next = j
+            temp = temp.next
+    temp.next = None
     return newHead.next
 
 
