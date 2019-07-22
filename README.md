@@ -77,6 +77,7 @@ Name | Status | Tags | Languages
 [Linked List Reversal](GeeksForGeeks/LinkedListReversal.py) | :heavy_check_mark: | `#linked-list` | Python
 [Longest Common Prefix in Array](GeeksForGeeks/LongestCommonPrefixInArr.py) | :heavy_check_mark: | `#strings` | Python
 [Longest Common Subsequence](GeeksForGeeks/LongestCommonSubsequence.py) | :heavy_check_mark: | `#dynamic-programming` | Python
+[Longest Common Substring](GeeksForGeeks/LongestCommonSubstr.py) | :heavy_check_mark: | `#dynamic-programming` `#strings` | Python
 [Longest Distinct Characters in String](GeeksForGeeks/LongestDistinctCharsInStr.py) | :heavy_check_mark: | `#strings` | Python
 [Longest Increasing Subsequence](GeeksForGeeks/LongestIncreasingSubsequence.py) | :heavy_check_mark: | `#dynamic-programming` | Python
 [Majority Element](GeeksForGeeks/MajorityElement.py) | :heavy_check_mark: | `#searching` `#arrays` | Python
