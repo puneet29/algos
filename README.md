@@ -96,6 +96,7 @@ Name | Status | Tags | Languages
 [Maximum Money](GeeksForGeeks/MaxMoney.py) | :heavy_check_mark: | `#mathematical` | Python
 [Maximum Number of Bags](misc/MinNumberOfBags.py) | :heavy_check_mark: | `#dynamic-programming` | Python
 [Maximum Number of Coins](GeeksForGeeks/MinimumNumberOfCoins.py) | :heavy_check_mark: | `#dynamic-programming` | Python
+[Maximum Path Sum](GeeksForGeeks/MaximumPathSum.py) | :heavy_check_mark: | `#tree` | C++
 [Merge Sort](GeeksForGeeks/MergeSort.py) | :heavy_check_mark: | `#divide and conquer` `#sorting` | Python
 [Merge Two Sorted Arrays](GeeksForGeeks/MergeTwoSortedArrays.py) | :heavy_check_mark: | `#arrays` `#mathematical` `#sorting` | Python
 [Merge Two Sorted Linked Lists](GeeksForGeeks/MergeTwoSortedLinkList.py) | :heavy_check_mark: | `#linked-list` | Python
