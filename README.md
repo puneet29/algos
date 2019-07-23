@@ -43,6 +43,7 @@ Name | Status | Tags | Languages
 [Detect Loop in Linked List](GeeksForGeeks/DetectLoopInLinkedList.py) | :heavy_check_mark: | `#linked-list` | Python
 [Determine if Two Trees are Identical](GeeksForGeeks/TwoTreesIdentical.py) | :heavy_check_mark: | `#tree` | Python
 [DFS of Graph](GeeksForGeeks/DFSOfGraph.py) | :heavy_check_mark: | `#graph` `#dfs` | Python
+[Diameter of binary tree](GeeksForGeeks/DiameterOfBinaryTree.py) | :heavy_check_mark: | `#tree` | Python
 [DoorStatus](GeeksForGeeks/DoorStatus.py) | :heavy_check_mark: | `#TCS` `#mathematics` | Python
 [DOUGHNUT](spoj/DOUGHNUT.py) | :heavy_check_mark: | *no tags* | Python
 [Edit Distance](GeeksForGeek/EditDistance.py) | :heavy_check_mark: | `#dynamic-programming` | Python
