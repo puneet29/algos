@@ -64,6 +64,7 @@ Name | Status | Tags | Languages
 [Geek Collects the Balls](GeeksForGeeks/GeekCollectsTheBalls.py) | :heavy_check_mark: | `#greedy` | Python
 [German Lotto](misc/GermanLotto.cpp) | :dove: | `#ad-hoc` `#mathematics` `#brute-force` `#complete-search` | C++
 [Get minimum element from stack](GeeksForGeeks/GetMinElementStack.cpp) | :heavy_check_mark: | `#stack` | C++
+[Heap Sort](GeeksForGeeks/HeapSort.py) | :heavy_check_mark: | `#heap` `#sorting` | Python
 [Height of Binary Tree](GeeksForGeeks/HeightOfBinaryTree.py) | :heavy_check_mark: | `#tree` `#recursion` | Python
 [How many X's](GeeksForGeeks/HowManyXs.py) | :heavy_check_mark: | `#modular-arithmetic` `#numbers` | Python
 [Inorder Traversal](GeeksForGeeks/InorderTraversal.py) | :heavy_check_mark: | `#tree` | Python
