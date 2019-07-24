@@ -59,6 +59,7 @@ Name | Status | Tags | Languages
 [Find Middle element of linked list](GeeksForGeeks/FindMidLinkList.py) | :heavy_check_mark: | `#linked-list` | Python
 [First non-repeating character in a stream](GeeksForGeeks/FirstNonRepCharInStream.py) | :heavy_check_mark: | `#linked-list` `#queue` `#hash` | Python
 [Flattening a linked list](GeeksForGeeks/FlatteningALinkList.cpp) | :heavy_check_mark: | `#linked-list` | C++
+[Flood Fill Algorithm](GeeksForGeeks/FloodFillAlgo.py) | :heavy_check_mark: | `#graph` `#matrix` `#recursion` | Python
 [Fractions](misc/Fractions.py) | :heavy_check_mark: | *no_tags* | Python
 [Full Binary Tree](GeeksForGeeks/FullBinaryTree.cpp) | :heavy_check_mark: | `#tree` | [Python](GeeksForGeeks/FullBinaryTree.py), [C++](GeeksForGeeks/FullBinaryTree.cpp)
 [Geek Collects the Balls](GeeksForGeeks/GeekCollectsTheBalls.py) | :heavy_check_mark: | `#greedy` | Python
