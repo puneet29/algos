@@ -69,6 +69,7 @@ Name | Status | Tags | Languages
 [Height of Binary Tree](GeeksForGeeks/HeightOfBinaryTree.py) | :heavy_check_mark: | `#tree` `#recursion` | Python
 [How many X's](GeeksForGeeks/HowManyXs.py) | :heavy_check_mark: | `#modular-arithmetic` `#numbers` | Python
 [Inorder Traversal](GeeksForGeeks/InorderTraversal.py) | :heavy_check_mark: | `#tree` | Python
+[Insertion Sort](GeeksForGeeks/InsertionSort.py) | :heavy_check_mark: | `#sorting` | Python
 [Intersection point in Y shaped linked lists](GeeksForGeeks/IntersectionInYShapeLinkList.py) | :heavy_check_mark: | `#linked-list` | Python
 [Inversion Of Array](GeeksForGeeks/InversionOfArray.py) | :heavy_check_mark: | `#arrays` `#sorting` | Python
 [Is Sudoku Valid](GeeksForGeeks/IsSudokuValid.py) | :heavy_check_mark: | `#matrix` | Python
