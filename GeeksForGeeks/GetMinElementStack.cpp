@@ -53,20 +53,6 @@ int _stack ::getMin()
     {
         return -1;
     }
-    else if (minEle == -1)
-    {
-        stack<int> temp;
-        while (!s.empty())
-        {
-            temp.push(s.top());
-            s.pop();
-        }
-        while (!temp.empty())
-        {
-            push(temp.top());
-            temp.pop();
-        }
-    }
     return minEle;
 }
 /*returns poped element from stack*/
@@ -76,15 +62,15 @@ int _stack ::pop()
     {
         return -1;
     }
-    int x = s.top();
+    int element = s.top();
     s.pop();
-
-    if (x == minEle)
+    if (minEle > element)
     {
-        minEle = -1;
+        int temp = minEle;
+        minEle = 2 * minEle - element;
+        element = temp;
     }
-
-    return x;
+    return element;
 }
 /*push element x into the stack*/
 void _stack::push(int x)
@@ -92,10 +78,14 @@ void _stack::push(int x)
     if (s.empty())
     {
         minEle = x;
+        s.push(x);
+        return;
     }
-    else if (x < minEle)
+    if (minEle > x)
     {
+        s.push(2 * x - minEle);
         minEle = x;
+        return;
     }
     s.push(x);
 }
