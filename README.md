@@ -16,6 +16,7 @@ Name | Status | Tags | Languages
 [AGGRCOW](spoj/AGGRCOW.py) | :heavy_check_mark: | `#binary-search` | Python
 [AIBOHP](spoj/AIBOHP.cpp) | :heavy_check_mark: | `#dynamic-programming` | [Python](spoj/AIBOHP.py), [C++](spoj/AIBOHP.cpp)
 [Anagram](GeeksForGeeks/Anagram.py) | :heavy_check_mark: | `#strings` | Python
+[Anagram Pallindrome](GeeksForGeeks/AnagramPallindrome.py) | :heavy_check_mark: | `#strings` `#hash` `#pallindrome` | Python
 [ARRAYSUB](spoj/ARRAYSUB.cpp) | :heavy_check_mark: | `#datastructures` `#sliding window` `#deque` | C++
 [Implement Atoi](GeeksForGeeks/atoi.py) | :heavy_check_mark: | `#strings` | Python
 [Balancing Stars](misc/BalancingStars.py) | :heavy_check_mark: | `#codevita` `#stack` | Python
