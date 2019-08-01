@@ -18,7 +18,8 @@ Name | Status | Tags | Languages
 [Anagram](GeeksForGeeks/Anagram.py) | :heavy_check_mark: | `#strings` | Python
 [Anagram Pallindrome](GeeksForGeeks/AnagramPallindrome.py) | :heavy_check_mark: | `#strings` `#hash` `#pallindrome` | Python
 [ARRAYSUB](spoj/ARRAYSUB.cpp) | :heavy_check_mark: | `#datastructures` `#sliding window` `#deque` | C++
-[Implement Atoi](GeeksForGeeks/atoi.py) | :heavy_check_mark: | `#strings` | Python
+[Array to BST](GeeksForGeeks/ArrayToBST.py) | :heavy_check_mark: | `#tree` `#binary search tree` | Python
+[Atoi](GeeksForGeeks/atoi.py) | :heavy_check_mark: | `#strings` | Python
 [Balancing Stars](misc/BalancingStars.py) | :heavy_check_mark: | `#codevita` `#stack` | Python
 [Bank Statement](misc/BankStatement.cpp) | :heavy_check_mark: | `#codevita` `#mathematics` | Python
 [BFS of Graph](GeeksForGeeks/BFSOfGraph.py) | :heavy_check_mark: | `#bfs` `#graph` | Python
