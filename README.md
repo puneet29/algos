@@ -129,6 +129,7 @@ Name | Status | Tags | Languages
 [Parenthesis Checker](GeeksForGeeks/ParenthesisChecker.py) | :heavy_check_mark: | `#stack` | Python
 [Partition Linked List](misc/PartitionLinkList.py) | :heavy_check_mark: | `#linked-list` | Python
 [Pattern 1](misc/Pattern1.py) | :heavy_check_mark: | `#pattern` | Python
+[Pattern Printing](misc/PatternPrinting.py) | :heavy_check_mark: | `#codevita` `#pattern` | Python
 [Peak Element](GeeksForGeeks/PeakElement.py) | :heavy_check_mark: | `#arrays` `#searching` | Python
 [Permutations of a given string](GeeksForGeeks/PermutationsOfAString.py) | :heavy_check_mark: | `#recursion` `#strings` | Python
 [Philaland Coin](misc/PhilalandCoin.py) | :heavy_check_mark: | `#number-theory` `#codevita` | Python
