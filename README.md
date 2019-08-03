@@ -48,6 +48,7 @@ Name | Status | Tags | Languages
 [Determine if Two Trees are Identical](GeeksForGeeks/TwoTreesIdentical.py) | :heavy_check_mark: | `#tree` | Python
 [DFS of Graph](GeeksForGeeks/DFSOfGraph.py) | :heavy_check_mark: | `#graph` `#dfs` | Python
 [Diameter of binary tree](GeeksForGeeks/DiameterOfBinaryTree.py) | :heavy_check_mark: | `#tree` | Python
+[Divine Divisors](misc/DivineDivisors.py) | :rocket: | `#numbers` `#mathematics` `#codevita` | Python
 [DoorStatus](GeeksForGeeks/DoorStatus.py) | :heavy_check_mark: | `#TCS` `#mathematics` | Python
 [DOUGHNUT](spoj/DOUGHNUT.py) | :heavy_check_mark: | *no tags* | Python
 [Edit Distance](GeeksForGeek/EditDistance.py) | :heavy_check_mark: | `#dynamic-programming` | Python
