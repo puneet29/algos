@@ -88,6 +88,7 @@ Name | Status | Tags | Languages
 [Least common ancestor in Binary tree](GeeksForGeeks/LeastCommonAncestorInBinTree.py) | :heavy_check_mark: | `#tree` | Python
 [Left view of Binary tree](GeeksForGeeks/LeftViewOfBinTree.py) | :heavy_check_mark: | `#tree` | Python
 [Legendre Polynomials](misc/Legendre.py) | :heavy_check_mark: | `#legendre` `#dynamic-programming` | Python
+[Lexi String](misc/LexiString.py) | :heavy_check_mark: | `#codevita` `#strings` | Python
 [Linked List Insertion](GeeksForGeeks/LinkedListInsertion.py) | :heavy_check_mark: | `#insertion` `#linked-list` | Python
 [Linked List Reversal](GeeksForGeeks/LinkedListReversal.py) | :heavy_check_mark: | `#linked-list` | Python
 [Longest Common Prefix in Array](GeeksForGeeks/LongestCommonPrefixInArr.py) | :heavy_check_mark: | `#strings` | Python
