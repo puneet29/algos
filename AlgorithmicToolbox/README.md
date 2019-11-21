@@ -4,7 +4,7 @@
 
 Name | Status | Week | Languages
 ------------ | ------------- | ------------- | -------------
-[Maximum Pairwise Product](MaxPairwiseProduct.py) | :heavy_check_mark: | Week 1 | Python
+[Maximum Pairwise Product](MaxPairwiseProduct.cpp) | :heavy_check_mark: | Week 1 | [Python](MaxPairwiseProduct.py), [C++](MaxPairwiseProduct.cpp)
 
 Labels:
 
