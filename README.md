@@ -7,11 +7,12 @@ Implementation of algorithms and data structures from various programming portal
 - [GeeksForGeeks](GeeksForGeeks/)
 - [spoj](spoj/)
 - [LeetCode](LeetCode/)
+- [Algorithmic Toolbox](AlgorithmicToolBox/)
 - [Miscellaneous](misc/)
 
 ## Data Structures
 
-* ### TRIE
+- ### TRIE
 
 1. It is an information retrieval data structure.
 2. It is also called radix/prefix tree.
