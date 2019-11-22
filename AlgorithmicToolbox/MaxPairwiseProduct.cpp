@@ -2,12 +2,13 @@
 // sequence of non-negative integers.
 
 #include <iostream>
+#include <vector>
 using namespace std;
 
-int MaxPairwiseProduct(int arr[], int n)
+int MaxPairwiseProduct(vector<int> arr, long long n)
 {
     int a = 0, b = 0;
-    for (int i = 0; i < n; i++)
+    for (long long i = 0; i < n; i++)
     {
         if (arr[i] > a)
         {
@@ -25,12 +26,14 @@ int MaxPairwiseProduct(int arr[], int n)
 
 int main()
 {
-    int n;
+    long long n;
     cin >> n;
-    int arr[n];
-    for (int i = 0; i < n; i++)
+    vector<int> arr;
+    for (long long i = 0; i < n; i++)
     {
-        cin >> arr[i];
+        int temp;
+        cin >> temp;
+        arr.push_back(temp);
     }
     cout << MaxPairwiseProduct(arr, n);
     return 0;

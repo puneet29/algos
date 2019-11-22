@@ -1,14 +1,15 @@
 // Stress test generator for MaxPairwiseProduct problem.
 
 #include <iostream>
+#include <vector>
 using namespace std;
 
-int MaxPairwiseProductBrute(int arr[], int n)
+int MaxPairwiseProductBrute(vector<int> arr, long long n)
 {
     int res = 0;
-    for (int i = 0; i < n; i++)
+    for (long long i = 0; i < n; i++)
     {
-        for (int j = i + 1; j < n; j++)
+        for (long long j = i + 1; j < n; j++)
         {
             if (arr[i] * arr[j] > res)
             {
@@ -19,10 +20,10 @@ int MaxPairwiseProductBrute(int arr[], int n)
     return (res);
 }
 
-int MaxPairwiseProduct(int arr[], int n)
+int MaxPairwiseProduct(vector<int> arr, long long n)
 {
     int a = 0, b = 0;
-    for (int i = 0; i < n; i++)
+    for (long long i = 0; i < n; i++)
     {
         if (arr[i] > a)
         {
@@ -42,12 +43,13 @@ int main()
 {
     while (true)
     {
-        int n = rand() % 10000 + 2;
+        long long n = rand() % 100000 + 2;
+        // n *= rand() % 10 + 1;
         cout << n << endl;
-        int arr[n];
-        for (int i = 0; i < n; i++)
+        vector<int> arr;
+        for (long long i = 0; i < n; i++)
         {
-            arr[i] = rand() % 100000;
+            arr.push_back(rand() % 100000);
             cout << arr[i] << " ";
         }
         cout << endl;
