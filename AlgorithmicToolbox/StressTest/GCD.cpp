@@ -1,7 +1,10 @@
 // Stress test generator for GCD problem.
 
 #include <iostream>
+#include <random>
+#include <chrono>
 using namespace std;
+using namespace std::chrono;
 
 long long GCD(long long a, long long b)
 {
@@ -27,24 +30,28 @@ long long GCDfast(long long a, long long b)
 int main()
 {
     long long a, b, ans, ansfast;
+    /* Seed */
+    random_device rd;
+    /* Random number generator */
+    default_random_engine generator(rd());
+    /* Distribution on which to apply the generator */
+    uniform_int_distribution<long long> distribution(0, LONG_LONG_MAX);
     while (true)
     {
-        a = rand() % 100000;
-        b = rand() % 100000;
-        if (rand() % 2 == 0)
-        {
-            a *= rand() % 1000;
-        }
-        if (rand() % 2 == 0)
-        {
-            b *= rand() % 1000;
-        }
+        a = distribution(generator) % 100000000;
+        b = distribution(generator) % 100000000;
         cout << a << " " << b << endl;
+        auto start = high_resolution_clock::now();
         ans = GCD(a, b);
+        auto stop = high_resolution_clock::now();
+        auto naiveduration = duration_cast<microseconds>(stop - start);
+        start = high_resolution_clock::now();
         ansfast = GCDfast(a, b);
+        stop = high_resolution_clock::now();
+        auto fastduration = duration_cast<microseconds>(stop - start);
         if (ans == ansfast)
         {
-            cout << "OK" << endl;
+            cout << "OK\tNaive: " << naiveduration.count() << " microseconds\tFast: " << fastduration.count() << " microseconds" << endl;
         }
         else
         {

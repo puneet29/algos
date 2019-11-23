@@ -3,6 +3,7 @@
 
 #include <iostream>
 #include <chrono>
+#include <random>
 using namespace std;
 using namespace std::chrono;
 
@@ -30,19 +31,17 @@ int main()
     long long a, b;
     int it = 0;
     double total = 0.0;
+    /* Seed */
+    random_device rd;
+    /* Random number generator */
+    default_random_engine generator(rd());
+    /* Distribution on which to apply the generator */
+    uniform_int_distribution<long long> distribution(0, LONG_LONG_MAX);
     while (true)
     {
         it++;
-        a = rand() % 100000;
-        b = rand() % 100000;
-        if (rand() % 2 == 0)
-        {
-            a *= rand() % 100000;
-        }
-        if (rand() % 2 == 0)
-        {
-            b *= rand() % 100000;
-        }
+        a = distribution(generator) % 1000000000;
+        b = distribution(generator) % 1000000000;
         cout << a << " " << b << endl;
         auto start = high_resolution_clock::now();
         cout << LCM(a, b) << endl;
