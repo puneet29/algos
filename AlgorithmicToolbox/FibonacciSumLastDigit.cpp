@@ -1,4 +1,4 @@
-// Problem Description: Compute the last digit of F0 +F1 +···+Fn.
+// Stress test generator for Last Digit of the Sum of Fibonacci Numbers problem.
 
 #include <iostream>
 #include <vector>
