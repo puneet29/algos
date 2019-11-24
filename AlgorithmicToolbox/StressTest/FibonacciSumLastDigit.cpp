@@ -29,7 +29,9 @@ int naivefibsum(long long n)
 
 int fibsum(long long n)
 {
-    return (((n / f.size()) * accumulate(f.begin(), f.end(), 0) + accumulate(f.begin(), f.begin() + (n % f.size() + 1), 0)) % 10);
+    return (((n / f.size()) * accumulate(f.begin(), f.end(), 0) +
+             accumulate(f.begin(), f.begin() + (n % f.size() + 1), 0)) %
+            10);
 }
 
 int main()
