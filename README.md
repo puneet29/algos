@@ -7,7 +7,7 @@ Implementation of algorithms and data structures from various programming portal
 - [GeeksForGeeks](GeeksForGeeks/)
 - [spoj](spoj/)
 - [LeetCode](LeetCode/)
-- [Algorithmic Toolbox](AlgorithmicToolBox/)
+- [Algorithmic Toolbox](AlgorithmicToolbox/)
 - [Miscellaneous](misc/)
 
 ## Data Structures
