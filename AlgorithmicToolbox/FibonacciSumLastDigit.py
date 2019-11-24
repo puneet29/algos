@@ -14,7 +14,10 @@ def fibsum(n):
     >>> fibsum(100)
     5
     """
-    return ((n // len(f)) * sum(f) + sum(f[:n % len(f) + 1])) % 10
+    return (
+        # (n // len(f)) * sum(f) +
+        # As sum(f)%10==0, remove the above line.
+        sum(f[:n % len(f) + 1])) % 10
 
 
 if __name__ == "__main__":
