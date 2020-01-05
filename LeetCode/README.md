@@ -8,6 +8,7 @@ Name | Status | Tags | Languages
 [Longest Substring without repeating characters](LongestSubstrWithoutRepeatingChars.py) | :heavy_check_mark: | `#hash table` `#two pointers` `#string` `#sliding window` | Python
 [Reverse Integer](ReverseInteger.py) | :heavy_check_mark: | `#math` | Python
 [Reverse String](ReverseString.py) | :heavy_check_mark: | `#recursion` | Python
+[Swap nodes in pairs](SwapNodesInPairs.py) | :heavy_check_mark: | `#recursion` `#linked-list` | Python
 [ZipZag Conversion](ZigZagConversion.py) | :heavy_check_mark: | `#string` | Python
 Labels:
 
