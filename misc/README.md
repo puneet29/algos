@@ -27,6 +27,7 @@ Name | Status | Tags | Languages
 [Set of Stacks](SetOfStacks.py) | :heavy_check_mark: | `#stack` | Python
 [Similar Char](SimilarChar.py) | :heavy_check_mark: | `#codevita` `#strings` | Python
 [Sort Game](SortGame.cpp) | :heavy_check_mark: | `#sorting` `#vectors` `#pairs` | C++
+[Swirl](Swirl.cpp) | :heavy_check_mark: | `#redhat` | C++
 
 Labels:
 
