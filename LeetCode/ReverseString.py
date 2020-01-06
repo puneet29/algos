@@ -3,7 +3,7 @@ class Solution:
         """
         Do not return anything, modify s in-place instead.
         """
-        def helper(left, right):
+        def helper(left: int, right: int) -> None:
             if(left < right):
                 s[left], s[right] = s[right], s[left]
                 helper(left+1, right-1)
