@@ -7,6 +7,7 @@ Name | Status | Tags | Languages
 [Add Two Numbers](AddTwoNumbers.cpp) | :heavy_check_mark: | `#linked-list` `#math` | C++
 [Climbing Stairs](ClimbingStairs.py) | :heavy_check_mark: | `#recursion` `#memoization` | Python
 [Fibonacci Number](FibonacciNumber.py) | :heavy_check_mark: | `#recursion` `#memoization` | Python
+[K-th Symbol in Grammar](KthSymbolInGrammar.py) | :rocket: | `#recursion` | Python
 [Longest Substring without repeating characters](LongestSubstrWithoutRepeatingChars.py) | :heavy_check_mark: | `#hash table` `#two pointers` `#string` `#sliding window` | Python
 [Maximum Depth Of Binary Tree](MaximumDepthOfBinaryTree.py) | :heavy_check_mark: | `#recursion` `#tree` | Python
 [Merge Two Sorted Lists](MergeTwoSortedLists.py) | :heavy_check_mark: | `#recursion` `#linked-list` | Python
