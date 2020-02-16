@@ -8,6 +8,7 @@ Name | Status | Tags | Languages
 [Climbing Stairs](ClimbingStairs.py) | :heavy_check_mark: | `#recursion` `#memoization` | Python
 [Fibonacci Number](FibonacciNumber.py) | :heavy_check_mark: | `#recursion` `#memoization` | Python
 [Longest Substring without repeating characters](LongestSubstrWithoutRepeatingChars.py) | :heavy_check_mark: | `#hash table` `#two pointers` `#string` `#sliding window` | Python
+[Maximum Depth Of Binary Tree](MaximumDepthOfBinaryTree.py) | :heavy_check_mark: | `#recursion` `#tree` | Python
 [Pascal's Triangle II](PascalsTriangle2.py) | :heavy_check_mark: | `#recursion` | Python
 [Reverse Integer](ReverseInteger.py) | :heavy_check_mark: | `#math` | Python
 [Reverse Linked List](ReverseLinkedList.py) | :heavy_check_mark: | `#linkedlist` `#recursion` | Python
