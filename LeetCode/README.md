@@ -9,6 +9,7 @@ Name | Status | Tags | Languages
 [Fibonacci Number](FibonacciNumber.py) | :heavy_check_mark: | `#recursion` `#memoization` | Python
 [Longest Substring without repeating characters](LongestSubstrWithoutRepeatingChars.py) | :heavy_check_mark: | `#hash table` `#two pointers` `#string` `#sliding window` | Python
 [Maximum Depth Of Binary Tree](MaximumDepthOfBinaryTree.py) | :heavy_check_mark: | `#recursion` `#tree` | Python
+[Merge Two Sorted Lists](MergeTwoSortedLists.py) | :heavy_check_mark: | `#recursion` `#linked-list` | Python
 [Pascal's Triangle II](PascalsTriangle2.py) | :heavy_check_mark: | `#recursion` | Python
 [Pow(x,n)](Pow(x,n).py) | :heavy_check_mark: | `#recursion` `#memoization` | Python
 [Reverse Integer](ReverseInteger.py) | :heavy_check_mark: | `#math` | Python
