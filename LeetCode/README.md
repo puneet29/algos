@@ -6,6 +6,7 @@ Name | Status | Tags | Languages
 ------------ | ------------- | ------------- | -------------
 [Add Two Numbers](AddTwoNumbers.cpp) | :heavy_check_mark: | `#linked-list` `#math` | C++
 [Longest Substring without repeating characters](LongestSubstrWithoutRepeatingChars.py) | :heavy_check_mark: | `#hash table` `#two pointers` `#string` `#sliding window` | Python
+[Pascal's Triangle II](PascalsTriangle2.py) | :heavy_check_mark: | `#recursion` | Python
 [Reverse Integer](ReverseInteger.py) | :heavy_check_mark: | `#math` | Python
 [Reverse Linked List](ReverseLinkedList.py) | :heavy_check_mark: | `#linkedlist` `#recursion` | Python
 [Reverse String](ReverseString.py) | :heavy_check_mark: | `#recursion` | Python
