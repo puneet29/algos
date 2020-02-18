@@ -19,6 +19,7 @@ Name | Status | Tags | Languages
 [Reverse String](ReverseString.py) | :heavy_check_mark: | `#recursion` | Python
 [Search BST](SearchBST.py) | :heavy_check_mark: | `#recursion` `#bst` | Python
 [Swap nodes in pairs](SwapNodesInPairs.py) | :heavy_check_mark: | `#recursion` `#linked-list` | Python
+[Validate Binary Search Tree](ValidateBinarySearchTree.py) | :heavy_check_mark: | `#recursion` `#tree` | Python
 [ZipZag Conversion](ZigZagConversion.py) | :heavy_check_mark: | `#string` | Python
 
 Labels:
