@@ -12,6 +12,7 @@ Name | Status | Tags | Languages
 [Maximum Depth Of Binary Tree](MaximumDepthOfBinaryTree.py) | :heavy_check_mark: | `#recursion` `#tree` | Python
 [Merge Sort](MergeSort.py) | :heavy_check_mark: | `#recursion` `#sorting` | Python
 [Merge Two Sorted Lists](MergeTwoSortedLists.py) | :heavy_check_mark: | `#recursion` `#linked-list` | Python
+[N Queens II](NQueens2.py) | :heavy_check_mark: | `#recursion` `#backtracking` | Python
 [Pascal's Triangle II](PascalsTriangle2.py) | :heavy_check_mark: | `#recursion` | Python
 [Pow(x,n)](Pow(x,n).py) | :heavy_check_mark: | `#recursion` `#memoization` | Python
 [Reverse Integer](ReverseInteger.py) | :heavy_check_mark: | `#math` | Python
