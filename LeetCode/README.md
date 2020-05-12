@@ -10,6 +10,7 @@ Name | Status | Tags | Languages
 [K-th Symbol in Grammar](KthSymbolInGrammar.py) | :heavy_check_mark: | `#recursion` | Python
 [Longest Substring without repeating characters](LongestSubstrWithoutRepeatingChars.py) | :heavy_check_mark: | `#hash table` `#two pointers` `#string` `#sliding window` | Python
 [Maximum Depth Of Binary Tree](MaximumDepthOfBinaryTree.py) | :heavy_check_mark: | `#recursion` `#tree` | Python
+[Maximum Subarray](MaximumSubarray.py) | :heavy_check_mark: | `#kadane` `#array` | Python
 [Merge Sort](MergeSort.py) | :heavy_check_mark: | `#recursion` `#sorting` | Python
 [Merge Two Sorted Lists](MergeTwoSortedLists.py) | :heavy_check_mark: | `#recursion` `#linked-list` | Python
 [N Queens II](NQueens2.py) | :heavy_check_mark: | `#recursion` `#backtracking` | Python
