@@ -15,8 +15,18 @@ I'll be adding the solutions to each level once I have cleared all 5.
 
 Level | Status | Languages
 ------------ | ------------- | -------------
-[Level 1](Level1.py) | Cleared! | Python
-[Level 2](Level2.py) | Not Requested | Python
-[Level 3](Level3.py) | Not Requested | Python
-[Level 4](Level4.py) | Not Requested | Python
-[Level 5](Level5.py) | Not Requested | Python
+[Level 1](Level1.py) | Cleared! | Python 2.7
+[Level 2.1](Level2-1.py) | Cleared! | Python 2.7
+[Level 2.2](Level2-2.py) | Not Requested | Python 2.7
+[Level 3.1](Level3-1.py) | Not Requested | Python 2.7
+[Level 3.2](Level3-2.py) | Not Requested | Python 2.7
+[Level 3.3](Level3-3.py) | Not Requested | Python 2.7
+[Level 4.1](Level4-1.py) | Not Requested | Python 2.7
+[Level 4.1](Level4-2.py) | Not Requested | Python 2.7
+[Level 4.1](Level4-3.py) | Not Requested | Python 2.7
+[Level 4.1](Level4-4.py) | Not Requested | Python 2.7
+[Level 5.1](Level5-1.py) | Not Requested | Python 2.7
+[Level 5.2](Level5-2.py) | Not Requested | Python 2.7
+[Level 5.3](Level5-3.py) | Not Requested | Python 2.7
+[Level 5.4](Level5-4.py) | Not Requested | Python 2.7
+[Level 5.5](Level5-5.py) | Not Requested | Python 2.7
