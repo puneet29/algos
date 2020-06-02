@@ -4,16 +4,16 @@
 #         self.val = x
 #         self.next = None
 
+
 class Solution:
     def deleteNode(self, node):
         """
         :type node: ListNode
         :rtype: void Do not return anything, modify node in-place instead.
         """
-        while node.next != None:
+        while node.next is not None:
             node.val = node.next.val
-            if node.next.next == None:
+            if node.next.next is None:
                 node.next = None
                 break
             node = node.next
-        
