@@ -9,6 +9,7 @@ Name | Status | Tags | Languages
 [COPS](COPS.py) | :heavy_check_mark: | `#array` | Python
 [CSUB](CSUB.py) | :heavy_check_mark: | `#strings` `#ad-hoc` | Python
 [FRGTNLNG](FRGTNLNG.py) | :heavy_check_mark: | `#array` `#strings` | Python
+[LAPIN](LAPIN.py) | :heavy_check_mark: | `#strings` `#ad-hoc` | Python
 [LECANDY](LECANDY.py) | :heavy_check_mark: | `#array` | Python
 [RAINBOWA](RAINBOWA.py) | :heavy_check_mark: | `#array` `#ad-hoc` | Python
 [SALARY](SALARY.py) | :rocket: | `#array` `#ad-hoc` | Python
