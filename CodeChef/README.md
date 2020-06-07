@@ -6,6 +6,7 @@ Name | Status | Tags | Languages
 ------------ | ------------- | ------------- | -------------
 [CHN15A](CHN15A.py) | :heavy_check_mark: | `#array` `#modulo` | Python
 [CNOTE](CNOTE.py) | :heavy_check_mark: | `#array` | Python
+[COPS](COPS.py) | :heavy_check_mark: | `#array` | Python
 [FRGTNLNG](FRGTNLNG.py) | :heavy_check_mark: | `#array` `#strings` | Python
 [LECANDY](LECANDY.py) | :heavy_check_mark: | `#array` | Python
 [RAINBOWA](RAINBOWA.py) | :heavy_check_mark: | `#array` `#ad-hoc` | Python
