@@ -12,7 +12,7 @@ Name | Status | Tags | Languages
 [LAPIN](LAPIN.py) | :heavy_check_mark: | `#strings` `#ad-hoc` | Python
 [LECANDY](LECANDY.py) | :heavy_check_mark: | `#array` | Python
 [RAINBOWA](RAINBOWA.py) | :heavy_check_mark: | `#array` `#ad-hoc` | Python
-[SALARY](SALARY.py) | :rocket: | `#array` `#ad-hoc` | Python
+[SALARY](SALARY.py) | :heavy_check_mark: | `#array` `#ad-hoc` | Python
 
 Labels:
 
