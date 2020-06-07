@@ -4,6 +4,7 @@
 
 Name | Status | Tags | Languages
 ------------ | ------------- | ------------- | -------------
+[CNOTE](CNOTE.py) | :heavy_check_mark: | `#array` | Python
 [LECANDY](LECANDY.py) | :heavy_check_mark: | `#array` | Python
 
 Labels:
