@@ -24,6 +24,7 @@ Name | Status | Tags | Languages
 [Reverse String](ReverseString.py) | :heavy_check_mark: | `#recursion` | Python
 [Search a 2D Matrix II](Search2DMatrix2.py) | :heavy_check_mark: | `#recursion` `#searching` `#matrix` | Python
 [Search BST](SearchBST.py) | :heavy_check_mark: | `#recursion` `#bst` | Python
+[String to Integer (atoi)](StringToInteger.py) | :heavy_check_mark: | `#math` `#string` | Python
 [Sudoku Solver](SudokuSolver.py) | :heavy_check_mark: | `#recursion` `#backtracking` | Python
 [Swap nodes in pairs](SwapNodesInPairs.py) | :heavy_check_mark: | `#recursion` `#linked-list` | Python
 [Validate Binary Search Tree](ValidateBinarySearchTree.py) | :heavy_check_mark: | `#recursion` `#tree` | Python
