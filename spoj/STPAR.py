@@ -1,3 +1,5 @@
+# Problem Description: https://www.spoj.com/problems/STPAR/
+
 n = int(input())
 
 while(n != 0):

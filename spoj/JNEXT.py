@@ -1,3 +1,5 @@
+# Problem Description: https://www.spoj.com/problems/JNEXT/
+
 def just_next_partial(a, n):
     if n == 1:
         return -1
