@@ -9,6 +9,7 @@ Name | Status | Tags | Languages
 [COMPILER](COMPILER.py) | :heavy_check_mark: | `#ad-hoc` `#stack` | Python
 [COPS](COPS.py) | :heavy_check_mark: | `#array` | Python
 [CSUB](CSUB.py) | :heavy_check_mark: | `#strings` `#ad-hoc` | Python
+[EOEO](EOEO.py) | :heavy_check_mark: | `#math` | Python
 [FRGTNLNG](FRGTNLNG.py) | :heavy_check_mark: | `#array` `#strings` | Python
 [LAPIN](LAPIN.py) | :heavy_check_mark: | `#strings` `#ad-hoc` | Python
 [LECANDY](LECANDY.py) | :heavy_check_mark: | `#array` | Python
