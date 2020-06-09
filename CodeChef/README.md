@@ -6,6 +6,7 @@ Name | Status | Tags | Languages
 ------------ | ------------- | ------------- | -------------
 [CHN15A](CHN15A.py) | :heavy_check_mark: | `#array` `#modulo` | Python
 [CNOTE](CNOTE.py) | :heavy_check_mark: | `#array` | Python
+[COMPILER](COMPILER.py) | :heavy_check_mark: | `#ad-hoc` `#stack` | Python
 [COPS](COPS.py) | :heavy_check_mark: | `#array` | Python
 [CSUB](CSUB.py) | :heavy_check_mark: | `#strings` `#ad-hoc` | Python
 [FRGTNLNG](FRGTNLNG.py) | :heavy_check_mark: | `#array` `#strings` | Python
