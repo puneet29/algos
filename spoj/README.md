@@ -24,6 +24,7 @@ Name | Status | Tags | Languages
 [PRIME1](PRIME1.py) | :rocket: | `#number-theory` | Python
 [SAMER08F](SAMER08F.cpp) | :heavy_check_mark: | *no tags* | [Python](SAMER08F.py), [C++](SAMER08F.cpp)
 [SEQ](SEQ.cpp) | :heavy_check_mark: | `#transformation-matrix` `#recursive` `#series` | C++
+[STPAR](STPAR.py) | :heavy_check_mark: | `#stack` `#ad-hoc-1` | Python
 [TEST](TEST.py) | :heavy_check_mark: | `#basic` `#tutorial` `#ad-hoc-1` | Python
 [TOANDFRO](TOANDFRO.py) | :heavy_check_mark: | `#ad-hoc-1` | Python
 
