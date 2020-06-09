@@ -16,6 +16,7 @@ Name | Status | Tags | Languages
 [PRICECON](PRICECON.py) | :heavy_check_mark: | `#math` | Python
 [RAINBOWA](RAINBOWA.py) | :heavy_check_mark: | `#array` `#ad-hoc` | Python
 [SALARY](SALARY.py) | :heavy_check_mark: | `#array` `#ad-hoc` | Python
+[XYSTR](XYSTR.py) | :heavy_check_mark: | `#strings` | Python
 
 Labels:
 
