@@ -18,6 +18,7 @@ Name | Status | Tags | Languages
 [FASHION](FASHION.py) | :heavy_check_mark: | `#ad-hoc-1` | Python
 [FCTRL](FCTRL.py) | :heavy_check_mark: | `#math` | Python
 [FCTRL2](FCTRL2.py) | :heavy_check_mark: | `#math` `#big-numbers` | Python
+[JNEXT](JNEXT.py) | :heavy_check_mark: | `#ad-hoc-1` | Python
 [NSTEPS](NSTEPS.py) | :heavy_check_mark: | `#ad-hoc-1` | Python
 [ONP](ONP.py) | :heavy_check_mark: | `#stack` | Python
 [PRIME1](PRIME1.py) | :rocket: | `#number-theory` | Python
