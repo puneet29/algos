@@ -10,6 +10,7 @@ Name | Status | Tags | Languages
 [AE00](AE00.py) | :heavy_check_mark: | `#ad-hoc-1` | Python
 [AGGRCOW](AGGRCOW.py) | :heavy_check_mark: | `#binary-search` | Python
 [AIBOHP](AIBOHP.cpp) | :heavy_check_mark: | `#dynamic-programming` | [Python](AIBOHP.py), [C++](AIBOHP.cpp)
+[ANARC09A](ANARC09A.py) | :heavy_check_mark: | `#stack` `#dynamic-programming` | Python
 [ARRAYSUB](ARRAYSUB.cpp) | :heavy_check_mark: | `#datastructures` `#sliding window` `#deque` | C++
 [BYTESM2](BYTESM2.cpp) | :heavy_check_mark: | `#dynamic-programming` | [Python](BYTESM2.py), [C++](BYTESM2.cpp)
 [CANDY](CANDY.py) | :heavy_check_mark: | `#ad-hoc-1` | Python
