@@ -11,6 +11,7 @@
 | [Integer to Roman](IntegerToRoman.py)                                                   | :heavy_check_mark: | `#string` `#math`                                         | Python    |
 | [Invert Binary Tree](InvertBinaryTree.py)                                               | :heavy_check_mark: | `#tree`                                                   | Python    |
 | [K-th Symbol in Grammar](KthSymbolInGrammar.py)                                         | :heavy_check_mark: | `#recursion`                                              | Python    |
+| [Longest Common Prefix](LongestCommonPrefix.py)                                         | :heavy_check_mark: | `#trie` `#string`                                         | Python    |
 | [Longest Substring without repeating characters](LongestSubstrWithoutRepeatingChars.py) | :heavy_check_mark: | `#hash table` `#two pointers` `#string` `#sliding window` | Python    |
 | [Maximum Depth Of Binary Tree](MaximumDepthOfBinaryTree.py)                             | :heavy_check_mark: | `#recursion` `#tree`                                      | Python    |
 | [Maximum Subarray](MaximumSubarray.py)                                                  | :heavy_check_mark: | `#kadane` `#array`                                        | Python    |
