@@ -24,6 +24,7 @@
 | [Reverse Integer](ReverseInteger.py)                                                    | :heavy_check_mark: | `#math`                                                   | Python    |
 | [Reverse Linked List](ReverseLinkedList.py)                                             | :heavy_check_mark: | `#linkedlist` `#recursion`                                | Python    |
 | [Reverse String](ReverseString.py)                                                      | :heavy_check_mark: | `#recursion`                                              | Python    |
+| [Roman to Integer](RomanToInteger.py)                                                   | :heavy_check_mark: | `#hash-table` `#math` `#string`                           | Python    |
 | [Search a 2D Matrix II](Search2DMatrix2.py)                                             | :heavy_check_mark: | `#recursion` `#searching` `#matrix`                       | Python    |
 | [Search BST](SearchBST.py)                                                              | :heavy_check_mark: | `#recursion` `#bst`                                       | Python    |
 | [String to Integer (atoi)](StringToInteger.py)                                          | :heavy_check_mark: | `#math` `#string`                                         | Python    |
