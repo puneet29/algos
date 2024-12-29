@@ -8,7 +8,7 @@ class Solution(object):
         diff_cache = {}
         for i, num in enumerate(nums):
             diff = target - num
-            if num not in diff_cache:
-                diff_cache[diff] = i
+            if diff not in diff_cache:
+                diff_cache[num] = i
             else:
-                return [diff_cache[num], i]
+                return [diff_cache[diff], i]
