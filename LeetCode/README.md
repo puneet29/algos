@@ -17,6 +17,7 @@
 | [Merge Sort](MergeSort.py)                                                              | :heavy_check_mark: | `#recursion` `#sorting`                                   | Python    |
 | [Merge Two Sorted Lists](MergeTwoSortedLists.py)                                        | :heavy_check_mark: | `#recursion` `#linked-list`                               | Python    |
 | [N Queens II](NQueens2.py)                                                              | :heavy_check_mark: | `#recursion` `#backtracking`                              | Python    |
+| [Palindrome Number](PalindromeNumber.py)                                                | :heavy_check_mark: | `#math`                                                   | Python    |
 | [Palindromic Substrings](PalindromicSubstrings.py)                                      | :rocket:           | `#recursion` `#dynamic-programming` `#memoization`        | Python    |
 | [Pascal's Triangle II](PascalsTriangle2.py)                                             | :heavy_check_mark: | `#recursion`                                              | Python    |
 | [Pow(x,n)](Pow(x,n).py)                                                                 | :heavy_check_mark: | `#recursion` `#memoization`                               | Python    |
