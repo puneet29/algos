@@ -5,6 +5,7 @@
 | Name                                                                                    | Status             | Tags                                                      | Languages |
 |-----------------------------------------------------------------------------------------|--------------------|-----------------------------------------------------------|-----------|
 | [Add Two Numbers](AddTwoNumbers.cpp)                                                    | :heavy_check_mark: | `#linked-list` `#math`                                    | C++       |
+| [Add Two Numbers](AddTwoNumbers.py)                                                     | :heavy_check_mark: | `#linked-list` `#math`                                    | Python    |
 | [Climbing Stairs](ClimbingStairs.py)                                                    | :heavy_check_mark: | `#recursion` `#memoization`                               | Python    |
 | [Delete Node in a Linked List](DeleteNodeInLinkedList.py)                               | :heavy_check_mark: | `#linkedlist`                                             | Python    |
 | [Fibonacci Number](FibonacciNumber.py)                                                  | :heavy_check_mark: | `#recursion` `#memoization`                               | Python    |
