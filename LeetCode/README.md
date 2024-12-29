@@ -33,6 +33,7 @@
 | [Swap nodes in pairs](SwapNodesInPairs.py)                                              | :heavy_check_mark: | `#recursion` `#linked-list`                               | Python    |
 | [Two Sum](TwoSum.py)                                                                    | :heavy_check_mark: | `#array` `#hash-table`                                    | Python    |
 | [Validate Binary Search Tree](ValidateBinarySearchTree.py)                              | :heavy_check_mark: | `#recursion` `#tree`                                      | Python    |
+| [Valid Parantheses](ValidParantheses.py)                                                | :heavy_check_mark: | `#string` `#stack`                                        | Python    |
 | [ZipZag Conversion](ZigZagConversion.py)                                                | :heavy_check_mark: | `#string`                                                 | Python    |
 
 Labels:
