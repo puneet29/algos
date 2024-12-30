@@ -10,6 +10,7 @@
 | [Contains Duplicate](ContainsDuplicate.py)                                              | :heavy_check_mark: | `#array` `#hash-table` `#sorting`                         | Python    |
 | [Delete Node in a Linked List](DeleteNodeInLinkedList.py)                               | :heavy_check_mark: | `#linkedlist`                                             | Python    |
 | [Fibonacci Number](FibonacciNumber.py)                                                  | :heavy_check_mark: | `#recursion` `#memoization`                               | Python    |
+| [Group Anagrams](GroupAnagrams.py)                                                      | :heavy_check_mark: | `#array` `#hash-table` `#sorting` `#string`               | Python    |
 | [Integer to Roman](IntegerToRoman.py)                                                   | :heavy_check_mark: | `#string` `#math`                                         | Python    |
 | [Invert Binary Tree](InvertBinaryTree.py)                                               | :heavy_check_mark: | `#tree`                                                   | Python    |
 | [K-th Symbol in Grammar](KthSymbolInGrammar.py)                                         | :heavy_check_mark: | `#recursion`                                              | Python    |
