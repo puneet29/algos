@@ -41,6 +41,7 @@
 | [Two Sum](TwoSum.py)                                                                    | :heavy_check_mark: | `#array` `#hash-table`                                                                                     | Python    |
 | [Validate Binary Search Tree](ValidateBinarySearchTree.py)                              | :heavy_check_mark: | `#recursion` `#tree`                                                                                       | Python    |
 | [Validate Anagram](ValidateAnagram.py)                                                  | :heavy_check_mark: | `#hash-table` `#string` `sorting`                                                                          | Python    |
+| [Validate Palindrome](ValidatePalindrome.py)                                            | :heavy_check_mark: | `#two-pointers` `#string`                                                                                  | Python    |
 | [Valid Parantheses](ValidParantheses.py)                                                | :heavy_check_mark: | `#string` `#stack`                                                                                         | Python    |
 | [ZipZag Conversion](ZigZagConversion.py)                                                | :heavy_check_mark: | `#string`                                                                                                  | Python    |
 
